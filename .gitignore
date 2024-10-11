@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+.env
+dist
+.serverDeploy.env
+extractCode.py
+.vscode
+serverDeploy.sh
+.serverDeploy.env
+.example.serverDeploy.env
+push.sh
+
