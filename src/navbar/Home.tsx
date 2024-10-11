@@ -59,8 +59,4 @@ const Home = ({
   );
 };
 
-Home.defaultProps = {
-  homePath: undefined,
-};
-
 export default Home;

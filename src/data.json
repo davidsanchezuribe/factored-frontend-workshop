@@ -1,0 +1,6324 @@
+[
+    {
+      "_id": "6708be7e3fe17bc91276abb0",
+      "index": 0,
+      "guid": "18f08435-8896-4cf0-a505-c980f8faee82",
+      "name": "Susanne Richmond",
+      "position": "Content Strategist",
+      "avatar": "No gravity-3.svg",
+      "skills": [
+        {
+          "skill": "Swift",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 5
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 5
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 2
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ee774da6d236d297a",
+      "index": 1,
+      "guid": "18dd3293-e256-4d00-ab8b-5d067f18475c",
+      "name": "Fry May",
+      "position": "Product Owner",
+      "avatar": "Juicy-1.svg",
+      "skills": [
+        {
+          "skill": "Containerization",
+          "expertise": 2
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 3
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 2
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e9ccd3e54be5bb1cb",
+      "index": 2,
+      "guid": "72d3575d-3548-49dc-8a23-0f0cbdf59af9",
+      "name": "Carla Castro",
+      "position": "Cloud Engineer",
+      "avatar": "Juicy-1.svg",
+      "skills": [
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 3
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e4f97e7221513c72f",
+      "index": 3,
+      "guid": "86265add-fe6d-4e74-ae78-842a2e3582c3",
+      "name": "Louise Myers",
+      "position": "Creative Director",
+      "avatar": "01.svg",
+      "skills": [
+        {
+          "skill": "HTML/CSS",
+          "expertise": 4
+        },
+        {
+          "skill": "System Design",
+          "expertise": 4
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 3
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 5
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 3
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e461cdf6a74f04379",
+      "index": 4,
+      "guid": "e7922f88-2ae2-4702-9fc3-1094a9ff368d",
+      "name": "Kathleen Oneil",
+      "position": "Financial Analyst",
+      "avatar": "OSLO-5.svg",
+      "skills": [
+        {
+          "skill": "Java",
+          "expertise": 5
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 5
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 3
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 3
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 4
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec7dcf3dae87ef576",
+      "index": 5,
+      "guid": "8f9244b0-e575-4b77-9553-a09f3b6d402d",
+      "name": "Annabelle Barber",
+      "position": "Customer Service Representative",
+      "avatar": "OSLO-6.svg",
+      "skills": [
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "Swift",
+          "expertise": 4
+        },
+        {
+          "skill": "API Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 4
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 5
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 1
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ef6f3ae0ab11785c0",
+      "index": 6,
+      "guid": "261d4478-0c1d-494a-aad8-c0cc9f4d829c",
+      "name": "Tammie Simon",
+      "position": "Social Media Manager",
+      "avatar": "Delivery boy-5.svg",
+      "skills": [
+        {
+          "skill": "Kotlin",
+          "expertise": 4
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 2
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 3
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 4
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ee972daebe2d6310e",
+      "index": 7,
+      "guid": "f3ca807d-5292-42a6-9245-087919330089",
+      "name": "Valeria Johns",
+      "position": "Brand Manager",
+      "avatar": "OSLO-8.svg",
+      "skills": [
+        {
+          "skill": "HTML/CSS",
+          "expertise": 1
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 3
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 1
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 3
+        },
+        {
+          "skill": "C++",
+          "expertise": 1
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3ef83b5ad4a71147",
+      "index": 8,
+      "guid": "b3483a47-6200-4f5f-b266-ef2dd4cc1fe9",
+      "name": "Boyd Rivera",
+      "position": "Customer Service Representative",
+      "avatar": "No gravity-1.svg",
+      "skills": [
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 4
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e21940cf22605ffc1",
+      "index": 9,
+      "guid": "6ea13eb1-f967-4c56-bd26-53a91f3325dd",
+      "name": "Lynn Jarvis",
+      "position": "Brand Manager",
+      "avatar": "Cranks.svg",
+      "skills": [
+        {
+          "skill": "Data Structures",
+          "expertise": 1
+        },
+        {
+          "skill": "Python",
+          "expertise": 5
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 4
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 4
+        },
+        {
+          "skill": "Java",
+          "expertise": 4
+        },
+        {
+          "skill": "Python",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ee714689f87fd9a5b",
+      "index": 10,
+      "guid": "56fea1ca-e7b1-4686-9cbf-fa80dcc4a4ac",
+      "name": "Ronda Rose",
+      "position": "Supply Chain Manager",
+      "avatar": "OSLO-7.svg",
+      "skills": [
+        {
+          "skill": "SQL",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e8f5c9f4a27623374",
+      "index": 11,
+      "guid": "82ca304f-1a93-4570-a81d-3240ce0edb23",
+      "name": "Rebecca Walter",
+      "position": "Chief Operating Officer",
+      "avatar": "Upstream-10.svg",
+      "skills": [
+        {
+          "skill": "System Design",
+          "expertise": 3
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 4
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        },
+        {
+          "skill": "Python",
+          "expertise": 3
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 2
+        },
+        {
+          "skill": "C#",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ecfdd68e81a723dae",
+      "index": 12,
+      "guid": "0e1ae512-4d8f-4205-bf93-3220da234687",
+      "name": "Kent Lyons",
+      "position": "Chief Executive Officer",
+      "avatar": "E-commerce-1.svg",
+      "skills": [
+        {
+          "skill": "Web Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 1
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 3
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 2
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 4
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 2
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e7e98fdd4c8fa1111",
+      "index": 13,
+      "guid": "31fd10ad-36c6-4b24-881b-0b8a9b6c8e5e",
+      "name": "Mckee Sampson",
+      "position": "Creative Director",
+      "avatar": "Upstream-4.svg",
+      "skills": [
+        {
+          "skill": "Go",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 1
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 3
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 2
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 3
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 3
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 2
+        },
+        {
+          "skill": "PHP",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e23477b3ef8227006",
+      "index": 14,
+      "guid": "6050ec79-6226-40ed-97a5-62e693989aa7",
+      "name": "Natalia Figueroa",
+      "position": "Chief Financial Officer",
+      "avatar": "OSLO-5.svg",
+      "skills": [
+        {
+          "skill": "Performance Optimization",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e95bac8eb576ddff8",
+      "index": 15,
+      "guid": "88e6a97a-e1a8-4a7a-bfdc-ab1f0bcc9345",
+      "name": "Aguilar Craft",
+      "position": "Training and Development Manager",
+      "avatar": "Upstream-8.svg",
+      "skills": [
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        },
+        {
+          "skill": "PHP",
+          "expertise": 2
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 3
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 2
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 4
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0492256fbcf44242",
+      "index": 16,
+      "guid": "d99dd5e8-5c7b-497d-8975-2fd61481825f",
+      "name": "Margaret Odonnell",
+      "position": "Cloud Engineer",
+      "avatar": "No Comments-1.svg",
+      "skills": [
+        {
+          "skill": "C#",
+          "expertise": 4
+        },
+        {
+          "skill": "Go",
+          "expertise": 4
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e2f852c663f24cd6d",
+      "index": 17,
+      "guid": "c99ed60c-ab7b-46b5-af1b-d34ad007baed",
+      "name": "Duffy Bowen",
+      "position": "UX/UI Designer",
+      "avatar": "Funny Bunny-8.svg",
+      "skills": [
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 5
+        },
+        {
+          "skill": "Go",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ed3d13ab1c63f10ae",
+      "index": 18,
+      "guid": "1040c800-75de-4047-8ed6-94b634968f92",
+      "name": "Warren Meadows",
+      "position": "Network Administrator",
+      "avatar": "No gravity.svg",
+      "skills": [
+        {
+          "skill": "Python",
+          "expertise": 5
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 2
+        },
+        {
+          "skill": "Swift",
+          "expertise": 4
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 2
+        },
+        {
+          "skill": "API Development",
+          "expertise": 2
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ee9feb8335353e729",
+      "index": 19,
+      "guid": "9a5d497f-efa9-4a3a-9645-4d0ab67227f0",
+      "name": "Hampton Wright",
+      "position": "SEO Specialist",
+      "avatar": "E-commerce-1.svg",
+      "skills": [
+        {
+          "skill": "Performance Optimization",
+          "expertise": 2
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 4
+        },
+        {
+          "skill": "Swift",
+          "expertise": 5
+        },
+        {
+          "skill": "Java",
+          "expertise": 3
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 3
+        },
+        {
+          "skill": "PHP",
+          "expertise": 1
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3a463f3de33d5253",
+      "index": 20,
+      "guid": "b91154a0-683b-4f04-b3ed-dde86a63891b",
+      "name": "Aurora Cooper",
+      "position": "Chief Technology Officer",
+      "avatar": "Delivery boy-2.svg",
+      "skills": [
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Java",
+          "expertise": 1
+        },
+        {
+          "skill": "PHP",
+          "expertise": 2
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 1
+        },
+        {
+          "skill": "PHP",
+          "expertise": 3
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ecd1342748a59e388",
+      "index": 21,
+      "guid": "dd7005f8-d9d0-443e-ab2b-56e7d10ab198",
+      "name": "Fischer Burks",
+      "position": "UX/UI Designer",
+      "avatar": "Upstream-13.svg",
+      "skills": [
+        {
+          "skill": "Debugging",
+          "expertise": 2
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 4
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 5
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 2
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "Java",
+          "expertise": 2
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7efe101c10fe2c197b",
+      "index": 22,
+      "guid": "0bde1c04-d692-4133-b81f-fca043c3c974",
+      "name": "Montgomery Collins",
+      "position": "Public Relations Manager",
+      "avatar": "Upstream-10.svg",
+      "skills": [
+        {
+          "skill": "Communication Skills",
+          "expertise": 5
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 2
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 4
+        },
+        {
+          "skill": "System Design",
+          "expertise": 5
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 4
+        },
+        {
+          "skill": "Java",
+          "expertise": 3
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 2
+        },
+        {
+          "skill": "System Design",
+          "expertise": 4
+        },
+        {
+          "skill": "C++",
+          "expertise": 5
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ef4b83ec43740e858",
+      "index": 23,
+      "guid": "3c663545-833e-4bdf-b23b-7a97680c7a12",
+      "name": "Patrice Church",
+      "position": "Product Owner",
+      "avatar": "No Comments.svg",
+      "skills": [
+        {
+          "skill": "Database Management",
+          "expertise": 1
+        },
+        {
+          "skill": "Go",
+          "expertise": 1
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 1
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 1
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 3
+        },
+        {
+          "skill": "API Development",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eb3cdbbcfb2e4e1e2",
+      "index": 24,
+      "guid": "d7eb3b05-01e2-44af-b5aa-02c552c4e37e",
+      "name": "Bernard Lawson",
+      "position": "Research Scientist",
+      "avatar": "Teamwork-8.svg",
+      "skills": [
+        {
+          "skill": "Technical Writing",
+          "expertise": 2
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 3
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0f13c35734a41704",
+      "index": 25,
+      "guid": "15b458d9-d14f-41cc-9641-2e5fd4d9e45b",
+      "name": "Marguerite Summers",
+      "position": "Mobile App Developer",
+      "avatar": "Juicy.svg",
+      "skills": [
+        {
+          "skill": "C++",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ed0d210bb14f8ded1",
+      "index": 26,
+      "guid": "016c4020-2b5c-423c-8df7-a9b6875de987",
+      "name": "Chambers Wallace",
+      "position": "Digital Marketing Manager",
+      "avatar": "Upstream-7.svg",
+      "skills": [
+        {
+          "skill": "Team Collaboration",
+          "expertise": 3
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 3
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 5
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "Swift",
+          "expertise": 1
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 4
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3bc30f1fc9c439c1",
+      "index": 27,
+      "guid": "e9248b47-2f43-485b-8c65-f05a62452577",
+      "name": "Pollard Good",
+      "position": "Graphic Designer",
+      "avatar": "No comments 9.svg",
+      "skills": [
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 2
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7efd024c5f1fef5198",
+      "index": 28,
+      "guid": "24babb14-0e1f-4347-b8ed-9dc35c4f2346",
+      "name": "Carissa Fuller",
+      "position": "Customer Service Representative",
+      "avatar": "E-commerce-2.svg",
+      "skills": [
+        {
+          "skill": "Software Testing",
+          "expertise": 2
+        },
+        {
+          "skill": "C#",
+          "expertise": 4
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 3
+        },
+        {
+          "skill": "C#",
+          "expertise": 1
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e4e6c56995b0158d2",
+      "index": 29,
+      "guid": "6a9deaaf-e3e1-45b5-8097-c12cdbe33fdb",
+      "name": "Alyson Tillman",
+      "position": "Social Media Manager",
+      "avatar": "OSLO-3.svg",
+      "skills": [
+        {
+          "skill": "SQL",
+          "expertise": 5
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 1
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e8bd4df400bc5f74b",
+      "index": 30,
+      "guid": "e7b937c5-8380-44e3-902d-e9a841473f0d",
+      "name": "Pierce Pratt",
+      "position": "Web Developer",
+      "avatar": "No comments 7.svg",
+      "skills": [
+        {
+          "skill": "Networking Basics",
+          "expertise": 2
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 5
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 2
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 3
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 1
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Go",
+          "expertise": 2
+        },
+        {
+          "skill": "PHP",
+          "expertise": 4
+        },
+        {
+          "skill": "C#",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eb6fe5b12fa4dd17b",
+      "index": 31,
+      "guid": "a5af4744-081e-4cd8-b169-7afc01ac930b",
+      "name": "Reed Rosa",
+      "position": "Social Media Manager",
+      "avatar": "No gravity-2.svg",
+      "skills": [
+        {
+          "skill": "Go",
+          "expertise": 4
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 4
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 1
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 3
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e88f002835ab9196b",
+      "index": 32,
+      "guid": "8f344c2c-ce76-4a3f-a8da-ce3ed1f72bb3",
+      "name": "Vicky Miller",
+      "position": "DevOps Engineer",
+      "avatar": "Upstream-5.svg",
+      "skills": [
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e9843b5c7203ce291",
+      "index": 33,
+      "guid": "162ad39b-3a48-4b4c-9d58-6688ee01fe77",
+      "name": "Harrington Gates",
+      "position": "Chief Technology Officer",
+      "avatar": "No comments 4.svg",
+      "skills": [
+        {
+          "skill": "Kotlin",
+          "expertise": 5
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 2
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 4
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 1
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e6f83abcd231c1bed",
+      "index": 34,
+      "guid": "971951e4-0f2c-4dbb-831c-e0d71a50fa21",
+      "name": "Hammond Black",
+      "position": "Sales Executive",
+      "avatar": "OSLO-4.svg",
+      "skills": [
+        {
+          "skill": "Web Development",
+          "expertise": 2
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 1
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 1
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 1
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e60eaa894154798b5",
+      "index": 35,
+      "guid": "7ab9d787-f457-4895-9401-a388d47af544",
+      "name": "Flores Vaughan",
+      "position": "Technical Support Specialist",
+      "avatar": "Teamwork-3.svg",
+      "skills": [
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 1
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 2
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 2
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 3
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e2424bfce9bf411f6",
+      "index": 36,
+      "guid": "b1a19919-a28f-4824-b489-b27dd529e25d",
+      "name": "Reyna Newton",
+      "position": "Network Engineer",
+      "avatar": "Upstream-14.svg",
+      "skills": [
+        {
+          "skill": "Software Testing",
+          "expertise": 1
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 4
+        },
+        {
+          "skill": "C++",
+          "expertise": 1
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 5
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 3
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 2
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 5
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0059721dee9f68fc",
+      "index": 37,
+      "guid": "bc6f5dd6-50f8-456f-9df1-f98a669e4253",
+      "name": "Janet Mcleod",
+      "position": "Data Analyst",
+      "avatar": "Juicy-1.svg",
+      "skills": [
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e4f53efc8d6abd635",
+      "index": 38,
+      "guid": "3bf0d7f3-c100-4c29-b340-a3a71ec17750",
+      "name": "Jacobs Poole",
+      "position": "Systems Analyst",
+      "avatar": "Funny Bunny-1.svg",
+      "skills": [
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 5
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 4
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "Go",
+          "expertise": 2
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 2
+        },
+        {
+          "skill": "Python",
+          "expertise": 1
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 2
+        },
+        {
+          "skill": "Swift",
+          "expertise": 3
+        },
+        {
+          "skill": "C#",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3826976ea1d5db8f",
+      "index": 39,
+      "guid": "183a3659-ff79-4a0f-9ebe-3b43f910f69c",
+      "name": "Sophia Mills",
+      "position": "Supply Chain Manager",
+      "avatar": "OSLO-11.svg",
+      "skills": [
+        {
+          "skill": "Concurrency",
+          "expertise": 5
+        },
+        {
+          "skill": "PHP",
+          "expertise": 4
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 1
+        },
+        {
+          "skill": "PHP",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3a651bad16e96abe",
+      "index": 40,
+      "guid": "8fad90dc-00f8-4a80-92bc-c0de2b0a3ace",
+      "name": "Ward Fox",
+      "position": "HR Manager",
+      "avatar": "Delivery boy-1.svg",
+      "skills": [
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3c90e3faf1e53841",
+      "index": 41,
+      "guid": "9a749832-1cde-4e45-b1f5-dc3c9b0dee79",
+      "name": "Diann Alvarado",
+      "position": "Marketing Specialist",
+      "avatar": "Upstream-2.svg",
+      "skills": [
+        {
+          "skill": "Database Management",
+          "expertise": 3
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 5
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec78883ce8709295f",
+      "index": 42,
+      "guid": "44951042-6589-4dde-a8c9-049de114d7dd",
+      "name": "Conner Simmons",
+      "position": "Systems Analyst",
+      "avatar": "E-commerce.svg",
+      "skills": [
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 2
+        },
+        {
+          "skill": "Python",
+          "expertise": 1
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 2
+        },
+        {
+          "skill": "PHP",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e59d589f7a464c0af",
+      "index": 43,
+      "guid": "bdfa24e0-ace5-4b10-bab6-4253b0518bac",
+      "name": "Carole Wilkerson",
+      "position": "Chief Operating Officer",
+      "avatar": "No comments 7.svg",
+      "skills": [
+        {
+          "skill": "HTML/CSS",
+          "expertise": 3
+        },
+        {
+          "skill": "PHP",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0d72b1223af43068",
+      "index": 44,
+      "guid": "805e3791-cc47-49fc-bc3e-89a681dc17ad",
+      "name": "Pate Mcgee",
+      "position": "Digital Marketing Manager",
+      "avatar": "Upstream.svg",
+      "skills": [
+        {
+          "skill": "Swift",
+          "expertise": 3
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e98011d0e8e335fb8",
+      "index": 45,
+      "guid": "26b1cfa5-abdc-4792-aafe-39ef1e748040",
+      "name": "Moody Reed",
+      "position": "HR Manager",
+      "avatar": "OSLO-1.svg",
+      "skills": [
+        {
+          "skill": "Python",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 4
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 2
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ef4bcf7e6cae2c64a",
+      "index": 46,
+      "guid": "5e969679-2ba1-41c2-a87d-52abdfc5a4d9",
+      "name": "Bates Case",
+      "position": "UX/UI Designer",
+      "avatar": "Teamwork-2.svg",
+      "skills": [
+        {
+          "skill": "Problem Solving",
+          "expertise": 2
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 5
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 1
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 2
+        },
+        {
+          "skill": "Swift",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eb5257ec8125dcd04",
+      "index": 47,
+      "guid": "a2b99145-7882-4eb0-a1d3-12fe840fa6b0",
+      "name": "Morales Gaines",
+      "position": "Technical Support Specialist",
+      "avatar": "01.svg",
+      "skills": [
+        {
+          "skill": "Debugging",
+          "expertise": 3
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "Swift",
+          "expertise": 4
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 2
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eb2e765c0c8e1c087",
+      "index": 48,
+      "guid": "0cce4eff-7d7a-4aae-8ccb-a9f76e67f46b",
+      "name": "Adele Cortez",
+      "position": "Business Analyst",
+      "avatar": "OSLO.svg",
+      "skills": [
+        {
+          "skill": "Algorithms",
+          "expertise": 3
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 5
+        },
+        {
+          "skill": "PHP",
+          "expertise": 3
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 4
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 1
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 4
+        },
+        {
+          "skill": "Swift",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ed49b454e24508db8",
+      "index": 49,
+      "guid": "7007e4f7-9896-4dc5-b003-45ee1daaa8d9",
+      "name": "Brewer Mcknight",
+      "position": "Content Strategist",
+      "avatar": "Upstream-2.svg",
+      "skills": [
+        {
+          "skill": "Database Management",
+          "expertise": 4
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 1
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 2
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 5
+        },
+        {
+          "skill": "PHP",
+          "expertise": 3
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e8edbb5c5def62e41",
+      "index": 50,
+      "guid": "e42b5ab3-6086-4a73-af82-3676d75d5d45",
+      "name": "Kim Cook",
+      "position": "Mobile App Developer",
+      "avatar": "Funny Bunny-3.svg",
+      "skills": [
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "SQL",
+          "expertise": 3
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 2
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 2
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 5
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e8f3da7e9f070cbf9",
+      "index": 51,
+      "guid": "ccd9864d-7f69-4098-8c76-e6dfd3d51b9c",
+      "name": "Price Lott",
+      "position": "Content Writer",
+      "avatar": "Juicy.svg",
+      "skills": [
+        {
+          "skill": "Cloud Computing",
+          "expertise": 5
+        },
+        {
+          "skill": "Swift",
+          "expertise": 5
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 4
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e2fbe6ed506b8c5d8",
+      "index": 52,
+      "guid": "e5d989a2-5eb1-4af8-a4d6-7ad2beadf0f5",
+      "name": "Harriett Bishop",
+      "position": "Executive Assistant",
+      "avatar": "Upstream-5.svg",
+      "skills": [
+        {
+          "skill": "Swift",
+          "expertise": 2
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 3
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 2
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ebaf94aebfd6b414c",
+      "index": 53,
+      "guid": "f0767bb1-0156-4263-8896-07aeefff78be",
+      "name": "Burke Ross",
+      "position": "Public Relations Manager",
+      "avatar": "Upstream-11.svg",
+      "skills": [
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 5
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 5
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 5
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 5
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ed2b9e4b6e0102477",
+      "index": 54,
+      "guid": "bdda247b-ed46-4519-a6af-d45cf6242935",
+      "name": "Leslie Dotson",
+      "position": "Network Engineer",
+      "avatar": "Funny Bunny-4.svg",
+      "skills": [
+        {
+          "skill": "Technical Writing",
+          "expertise": 3
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 2
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 5
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 5
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 1
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e511641cb9c7575f4",
+      "index": 55,
+      "guid": "0877bf21-62aa-4f7d-aea7-31ab2a441f72",
+      "name": "William Tucker",
+      "position": "Sales Manager",
+      "avatar": "Juicy.svg",
+      "skills": [
+        {
+          "skill": "Java",
+          "expertise": 2
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 1
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 2
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 1
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 4
+        },
+        {
+          "skill": "C++",
+          "expertise": 5
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e4e5c6d3dbb1c0a7f",
+      "index": 56,
+      "guid": "b102f3b4-904a-4588-b142-272c0f843912",
+      "name": "Duncan Miles",
+      "position": "Compliance Officer",
+      "avatar": "OSLO-8.svg",
+      "skills": [
+        {
+          "skill": "Kotlin",
+          "expertise": 4
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 3
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 3
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ed81b5af70e4b7f36",
+      "index": 57,
+      "guid": "4674bef8-2849-49b1-8622-bb4dc7e939ed",
+      "name": "Hernandez Mcgowan",
+      "position": "Project Manager",
+      "avatar": "No comments 5.svg",
+      "skills": [
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 5
+        },
+        {
+          "skill": "System Design",
+          "expertise": 5
+        },
+        {
+          "skill": "Java",
+          "expertise": 1
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 3
+        },
+        {
+          "skill": "Go",
+          "expertise": 3
+        },
+        {
+          "skill": "API Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Swift",
+          "expertise": 1
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 3
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 5
+        },
+        {
+          "skill": "Java",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0b9b45c345499544",
+      "index": 58,
+      "guid": "da2c94b7-5308-4129-81e0-380a5b91af46",
+      "name": "Eugenia Morton",
+      "position": "IT Support Specialist",
+      "avatar": "Teamwork-8.svg",
+      "skills": [
+        {
+          "skill": "Mobile Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e598629f5fbb4d4c8",
+      "index": 59,
+      "guid": "49b44da1-0bf3-4d4f-b4f8-f4220f36ee05",
+      "name": "Flowers Maynard",
+      "position": "Digital Marketing Manager",
+      "avatar": "Funny Bunny-4.svg",
+      "skills": [
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 5
+        },
+        {
+          "skill": "Python",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 3
+        },
+        {
+          "skill": "Go",
+          "expertise": 2
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 1
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec24caedaa0e65af9",
+      "index": 60,
+      "guid": "be00f313-e8a8-4190-a66b-cac379a8eee1",
+      "name": "Winnie Chase",
+      "position": "Chief Executive Officer",
+      "avatar": "Teamwork-6.svg",
+      "skills": [
+        {
+          "skill": "HTML/CSS",
+          "expertise": 5
+        },
+        {
+          "skill": "Python",
+          "expertise": 2
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 1
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 2
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 1
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 2
+        },
+        {
+          "skill": "Swift",
+          "expertise": 5
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 2
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ed74250c50226c693",
+      "index": 61,
+      "guid": "e361a53c-d2eb-40f2-8eca-346312531a71",
+      "name": "Sawyer Obrien",
+      "position": "Web Developer",
+      "avatar": "Guacamole-1.svg",
+      "skills": [
+        {
+          "skill": "Software Testing",
+          "expertise": 2
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 1
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 1
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 3
+        },
+        {
+          "skill": "API Development",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e26181e07c9c9af2b",
+      "index": 62,
+      "guid": "591fe8d8-3fa7-4caa-abc5-6b95e257c216",
+      "name": "Arline Boyer",
+      "position": "Executive Assistant",
+      "avatar": "OSLO-6.svg",
+      "skills": [
+        {
+          "skill": "Python",
+          "expertise": 1
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ed72340ac19a0bafa",
+      "index": 63,
+      "guid": "6f69beb5-fe0d-4ecf-9dc6-ac48c72aa279",
+      "name": "Alicia Manning",
+      "position": "HR Manager",
+      "avatar": "Delivery boy-3.svg",
+      "skills": [
+        {
+          "skill": "Software Documentation",
+          "expertise": 5
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 4
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 3
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 3
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 4
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ebb7f272a4975af4e",
+      "index": 64,
+      "guid": "778a845e-e206-4314-9ffb-d5d50f819c61",
+      "name": "Tammi Rowe",
+      "position": "Event Coordinator",
+      "avatar": "Cranks-2.svg",
+      "skills": [
+        {
+          "skill": "Kotlin",
+          "expertise": 4
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 2
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 5
+        },
+        {
+          "skill": "API Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ea604c71c79aae272",
+      "index": 65,
+      "guid": "73c37d80-4d2d-4a5c-b0ba-ea20e759ee44",
+      "name": "Cathleen Fernandez",
+      "position": "Market Research Analyst",
+      "avatar": "No gravity-2.svg",
+      "skills": [
+        {
+          "skill": "JavaScript",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 1
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 2
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 1
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 1
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 1
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0a4a4ecac402b571",
+      "index": 66,
+      "guid": "af40b944-ac4e-43e8-bc30-9abb94ce71f3",
+      "name": "Eaton Mendez",
+      "position": "Market Research Analyst",
+      "avatar": "Funny Bunny-4.svg",
+      "skills": [
+        {
+          "skill": "Java",
+          "expertise": 1
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 3
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 3
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 4
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 3
+        },
+        {
+          "skill": "PHP",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e265bc8077830cc27",
+      "index": 67,
+      "guid": "9e97d560-d394-447e-9b62-e986bb013d22",
+      "name": "Sosa Chapman",
+      "position": "Data Analyst",
+      "avatar": "Upstream-14.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 3
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 5
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 1
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 2
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 4
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 3
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e34b55ebef1b3641d",
+      "index": 68,
+      "guid": "630501a6-92fa-4bb4-868c-0b176501842a",
+      "name": "Carson York",
+      "position": "UX/UI Designer",
+      "avatar": "Upstream-7.svg",
+      "skills": [
+        {
+          "skill": "Continuous Integration",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 2
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 3
+        },
+        {
+          "skill": "System Design",
+          "expertise": 3
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 5
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 4
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 4
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e29490d14428c5edd",
+      "index": 69,
+      "guid": "053db32e-8e90-404a-8f03-991ecca513ea",
+      "name": "Wooten Spears",
+      "position": "Business Analyst",
+      "avatar": "OSLO-6.svg",
+      "skills": [
+        {
+          "skill": "Performance Optimization",
+          "expertise": 3
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 4
+        },
+        {
+          "skill": "Swift",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 2
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 4
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 5
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e1b8ebaccc3bd45e3",
+      "index": 70,
+      "guid": "f3ce05f2-0a22-4bbc-94e7-376d365f82bc",
+      "name": "Kirk Gray",
+      "position": "Account Manager",
+      "avatar": "Upstream.svg",
+      "skills": [
+        {
+          "skill": "Go",
+          "expertise": 1
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 1
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 1
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 2
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec17c251bd31251ce",
+      "index": 71,
+      "guid": "444eee90-bfd5-4a0e-89f8-e79558ad4c16",
+      "name": "Berger Donaldson",
+      "position": "Content Writer",
+      "avatar": "OSLO-3.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 3
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 1
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 1
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ed34217c9e25b276e",
+      "index": 72,
+      "guid": "4efc26f0-0303-493d-9c3c-3bfa51cc4a2d",
+      "name": "Antonia Robles",
+      "position": "Marketing Specialist",
+      "avatar": "OSLO-8.svg",
+      "skills": [
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 4
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 5
+        },
+        {
+          "skill": "SQL",
+          "expertise": 1
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec8e4018e5f150f37",
+      "index": 73,
+      "guid": "b73c73bb-d9cb-4fc8-a61b-67845e27b765",
+      "name": "Palmer Deleon",
+      "position": "Public Relations Manager",
+      "avatar": "OSLO-14.svg",
+      "skills": [
+        {
+          "skill": "Communication Skills",
+          "expertise": 5
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        },
+        {
+          "skill": "System Design",
+          "expertise": 1
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e545b4ae6cb8ad195",
+      "index": 74,
+      "guid": "d5779836-77db-434d-b4d5-91b9de3a746e",
+      "name": "Brock Stephens",
+      "position": "Executive Assistant",
+      "avatar": "E-commerce-1.svg",
+      "skills": [
+        {
+          "skill": "SQL",
+          "expertise": 5
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 5
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 5
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 4
+        },
+        {
+          "skill": "API Development",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ef8ed7c798613c2dc",
+      "index": 75,
+      "guid": "51d63a61-fb4d-437a-8de2-d245c58bf9fd",
+      "name": "Marquita Frazier",
+      "position": "Supply Chain Manager",
+      "avatar": "Delivery boy-2.svg",
+      "skills": [
+        {
+          "skill": "PHP",
+          "expertise": 2
+        },
+        {
+          "skill": "C#",
+          "expertise": 4
+        },
+        {
+          "skill": "Python",
+          "expertise": 1
+        },
+        {
+          "skill": "C#",
+          "expertise": 2
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ead15f5bc3f3a2c11",
+      "index": 76,
+      "guid": "69cdc4ad-126f-48f0-a5df-24b277e5346c",
+      "name": "Kathrine Stephenson",
+      "position": "Project Manager",
+      "avatar": "Guacamole-1.svg",
+      "skills": [
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        },
+        {
+          "skill": "C#",
+          "expertise": 1
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 5
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 2
+        },
+        {
+          "skill": "C++",
+          "expertise": 4
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 1
+        },
+        {
+          "skill": "C#",
+          "expertise": 4
+        },
+        {
+          "skill": "PHP",
+          "expertise": 3
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 1
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e49b3aff79f0e705e",
+      "index": 77,
+      "guid": "e1928c65-c91d-42ef-a201-9f72ad7bde64",
+      "name": "May Delacruz",
+      "position": "Data Analyst",
+      "avatar": "Funny Bunny-3.svg",
+      "skills": [
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 1
+        },
+        {
+          "skill": "PHP",
+          "expertise": 1
+        },
+        {
+          "skill": "C++",
+          "expertise": 2
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 5
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 1
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 3
+        },
+        {
+          "skill": "PHP",
+          "expertise": 2
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7edc2660177de2fb25",
+      "index": 78,
+      "guid": "56447357-f9e6-405d-b812-f1edb868ba41",
+      "name": "Stout Gordon",
+      "position": "Operations Manager",
+      "avatar": "Guacamole-1.svg",
+      "skills": [
+        {
+          "skill": "PHP",
+          "expertise": 3
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 3
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 2
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 2
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 1
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 2
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 1
+        },
+        {
+          "skill": "C#",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e99c133805fadbbc6",
+      "index": 79,
+      "guid": "a5cd6a6e-d420-4247-9be2-b6b079e0f52e",
+      "name": "Jimenez Gallagher",
+      "position": "Business Development Manager",
+      "avatar": "Guacamole.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e52b394f1ba4aa838",
+      "index": 80,
+      "guid": "46f02f61-ad48-41eb-9d37-fab0b95839d3",
+      "name": "Mcclure Hayden",
+      "position": "Marketing Specialist",
+      "avatar": "No gravity-3.svg",
+      "skills": [
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 3
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 5
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 1
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 3
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 5
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e6173cd5d9496fca4",
+      "index": 81,
+      "guid": "c05fd5bf-0c1d-4402-ac2e-eb414f036ec4",
+      "name": "Della Rich",
+      "position": "IT Support Specialist",
+      "avatar": "extractInfo.sh",
+      "skills": [
+        {
+          "skill": "Web Development",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3e867d3e262fdbd0",
+      "index": 82,
+      "guid": "dba0d4c0-47ce-4550-a0a5-c9d59a3c5352",
+      "name": "Snow Velez",
+      "position": "Technical Support Specialist",
+      "avatar": "Upstream-1.svg",
+      "skills": [
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Java",
+          "expertise": 4
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 5
+        },
+        {
+          "skill": "Python",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e84d35c31e00fa724",
+      "index": 83,
+      "guid": "dd452366-02ed-469b-b820-6dec511dd4aa",
+      "name": "Sherman Rutledge",
+      "position": "Data Analyst",
+      "avatar": "OSLO-8.svg",
+      "skills": [
+        {
+          "skill": "Cloud Computing",
+          "expertise": 3
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 5
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 5
+        },
+        {
+          "skill": "Go",
+          "expertise": 5
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ebd6d4280038b04f1",
+      "index": 84,
+      "guid": "bdce1640-763d-4b36-b8b4-2c56c6a48e32",
+      "name": "Ava Curry",
+      "position": "Marketing Specialist",
+      "avatar": "OSLO.svg",
+      "skills": [
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 2
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 4
+        },
+        {
+          "skill": "C++",
+          "expertise": 4
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 4
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ef6238d8a6694d9bf",
+      "index": 85,
+      "guid": "87cd8e51-9f36-46a5-b5b7-106626652f27",
+      "name": "Emma Farrell",
+      "position": "Business Analyst",
+      "avatar": "E-commerce-1.svg",
+      "skills": [
+        {
+          "skill": "Web Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 2
+        },
+        {
+          "skill": "C#",
+          "expertise": 4
+        },
+        {
+          "skill": "Go",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ea646b2bea6b53fe0",
+      "index": 86,
+      "guid": "7151eab7-bebd-4f71-898d-62692ae5a82d",
+      "name": "Alston Fleming",
+      "position": "Sales Executive",
+      "avatar": "No comments 9.svg",
+      "skills": [
+        {
+          "skill": "Kotlin",
+          "expertise": 5
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 1
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 4
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ef16c4ec8b940e4b8",
+      "index": 87,
+      "guid": "74b2418e-c62c-448b-8932-0e096b6b622b",
+      "name": "Rochelle Rosario",
+      "position": "E-commerce Specialist",
+      "avatar": "E-commerce-2.svg",
+      "skills": [
+        {
+          "skill": "JavaScript",
+          "expertise": 1
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 3
+        },
+        {
+          "skill": "API Development",
+          "expertise": 2
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 4
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 1
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "C++",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e59f0eebc28996cc9",
+      "index": 88,
+      "guid": "d01ed3bc-952f-470d-abf9-6502c6c7b95c",
+      "name": "Chapman Jordan",
+      "position": "Software Engineer",
+      "avatar": "No comments 6.svg",
+      "skills": [
+        {
+          "skill": "Data Structures",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 1
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 2
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e07998aea74d73597",
+      "index": 89,
+      "guid": "6616d17b-0d8b-4234-ab45-9c158fefd685",
+      "name": "Florence Fitzgerald",
+      "position": "Training and Development Manager",
+      "avatar": "No gravity-3.svg",
+      "skills": [
+        {
+          "skill": "Cloud Computing",
+          "expertise": 3
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 3
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 2
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 1
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 4
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e98f5fb7dc315e030",
+      "index": 90,
+      "guid": "b50a929e-706d-4941-864b-c646263b53c6",
+      "name": "Alyssa Paul",
+      "position": "SEO Specialist",
+      "avatar": "Juicy-1.svg",
+      "skills": [
+        {
+          "skill": "DevOps Practices",
+          "expertise": 5
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 3
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eb08848977fb108ea",
+      "index": 91,
+      "guid": "fe4a4b80-5a7c-4e25-8574-ef8c191fe0cb",
+      "name": "Robyn Livingston",
+      "position": "Chief Operating Officer",
+      "avatar": "Delivery boy-2.svg",
+      "skills": [
+        {
+          "skill": "PHP",
+          "expertise": 2
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 5
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 5
+        },
+        {
+          "skill": "Java",
+          "expertise": 5
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 5
+        },
+        {
+          "skill": "Swift",
+          "expertise": 1
+        },
+        {
+          "skill": "C++",
+          "expertise": 1
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e17e26e8b857b14fa",
+      "index": 92,
+      "guid": "5201732c-2760-4f01-af88-04ba441d357a",
+      "name": "Goodwin Irwin",
+      "position": "Sales Manager",
+      "avatar": "Teamwork-3.svg",
+      "skills": [
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 4
+        },
+        {
+          "skill": "Swift",
+          "expertise": 3
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 5
+        },
+        {
+          "skill": "C#",
+          "expertise": 5
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3cf7ffb5056b8672",
+      "index": 93,
+      "guid": "4798de6b-d8fc-46c0-9454-37ac058dd1b2",
+      "name": "Finch Logan",
+      "position": "Artificial Intelligence Engineer",
+      "avatar": "01.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 1
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 3
+        },
+        {
+          "skill": "Java",
+          "expertise": 3
+        },
+        {
+          "skill": "Swift",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0523c013cdfc05e5",
+      "index": 94,
+      "guid": "7fafb0ed-dafe-4895-af2b-5e7c47abf7d3",
+      "name": "Sykes Graves",
+      "position": "Training and Development Manager",
+      "avatar": "No comments 6.svg",
+      "skills": [
+        {
+          "skill": "C#",
+          "expertise": 2
+        },
+        {
+          "skill": "PHP",
+          "expertise": 1
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 5
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 5
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 4
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 1
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 4
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 5
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e09dc4c2073dfe3cf",
+      "index": 95,
+      "guid": "626725a2-cd2e-4ea9-929e-88f985ecfeed",
+      "name": "Douglas Martin",
+      "position": "Chief Financial Officer",
+      "avatar": "Upstream-8.svg",
+      "skills": [
+        {
+          "skill": "JavaScript",
+          "expertise": 4
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 3
+        },
+        {
+          "skill": "SQL",
+          "expertise": 5
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 1
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 3
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e157c6f06dbf883a3",
+      "index": 96,
+      "guid": "a4213e82-edbd-44e2-8c07-498a759db98c",
+      "name": "Washington Austin",
+      "position": "Quality Assurance Engineer",
+      "avatar": "Funny Bunny-2.svg",
+      "skills": [
+        {
+          "skill": "C#",
+          "expertise": 3
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3e7410280b90214f",
+      "index": 97,
+      "guid": "776c00ae-149d-4e46-b604-25010d409c56",
+      "name": "Adrian Stevens",
+      "position": "Operations Manager",
+      "avatar": "OSLO-10.svg",
+      "skills": [
+        {
+          "skill": "PHP",
+          "expertise": 3
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 4
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 5
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 2
+        },
+        {
+          "skill": "Java",
+          "expertise": 2
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 4
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ee56ef4795817f8ff",
+      "index": 98,
+      "guid": "0856debe-a9ce-4adc-ab74-18be22da1469",
+      "name": "Davenport Smith",
+      "position": "Business Analyst",
+      "avatar": "Upstream-10.svg",
+      "skills": [
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 1
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 5
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec6becef53fb01380",
+      "index": 99,
+      "guid": "0739f087-504a-4a93-a24d-d111fc784161",
+      "name": "Little Todd",
+      "position": "DevOps Engineer",
+      "avatar": "OSLO-8.svg",
+      "skills": [
+        {
+          "skill": "Mobile Development",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0db63bced57df007",
+      "index": 100,
+      "guid": "9fd7d086-d286-4da4-9575-6e33f88073ed",
+      "name": "Jeanette Santiago",
+      "position": "Product Manager",
+      "avatar": "Funny Bunny-7.svg",
+      "skills": [
+        {
+          "skill": "DevOps Practices",
+          "expertise": 4
+        },
+        {
+          "skill": "PHP",
+          "expertise": 5
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 2
+        },
+        {
+          "skill": "PHP",
+          "expertise": 3
+        },
+        {
+          "skill": "C#",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 1
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 5
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 2
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e61c80209a84da223",
+      "index": 101,
+      "guid": "80ab1273-7413-455e-8e87-7e937ac473cc",
+      "name": "Bridgette Parker",
+      "position": "Social Media Manager",
+      "avatar": "Juicy.svg",
+      "skills": [
+        {
+          "skill": "C++",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e09193a8c1054ad77",
+      "index": 102,
+      "guid": "7c653b9d-d9e3-4552-ad30-437e42c48a16",
+      "name": "Joyner Cherry",
+      "position": "Chief Technology Officer",
+      "avatar": "Upstream-14.svg",
+      "skills": [
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 2
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 5
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 2
+        },
+        {
+          "skill": "API Development",
+          "expertise": 2
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 4
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 2
+        },
+        {
+          "skill": "Java",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ea2083d11fe5504d8",
+      "index": 103,
+      "guid": "5b61a017-29bc-4101-89b1-dc84b44a105b",
+      "name": "Barron Wall",
+      "position": "Sales Manager",
+      "avatar": "Upstream-12.svg",
+      "skills": [
+        {
+          "skill": "Team Collaboration",
+          "expertise": 5
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 2
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 2
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 5
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 1
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 2
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e2eb725b05984a926",
+      "index": 104,
+      "guid": "cf2762c5-da90-4678-a621-f909fb0a657c",
+      "name": "Roberts Santos",
+      "position": "Account Manager",
+      "avatar": "OSLO-12.svg",
+      "skills": [
+        {
+          "skill": "Data Structures",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 5
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 2
+        },
+        {
+          "skill": "PHP",
+          "expertise": 2
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 2
+        },
+        {
+          "skill": "System Design",
+          "expertise": 1
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 2
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 3
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e5c1be08b40d88057",
+      "index": 105,
+      "guid": "c211261f-2f0c-40b4-83eb-58764f2e93ff",
+      "name": "Latisha Woodard",
+      "position": "Marketing Specialist",
+      "avatar": "Upstream-16.svg",
+      "skills": [
+        {
+          "skill": "PHP",
+          "expertise": 4
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e7fcf503adad174e1",
+      "index": 106,
+      "guid": "0832711a-4b13-46f3-b89e-dd63636ac216",
+      "name": "Lynnette Hicks",
+      "position": "Network Engineer",
+      "avatar": "Upstream-10.svg",
+      "skills": [
+        {
+          "skill": "Performance Optimization",
+          "expertise": 1
+        },
+        {
+          "skill": "Go",
+          "expertise": 1
+        },
+        {
+          "skill": "C++",
+          "expertise": 1
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 4
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 5
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 5
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 1
+        },
+        {
+          "skill": "C#",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ee68ec6e4ee1b28b1",
+      "index": 107,
+      "guid": "c129a114-8fa1-4f42-8979-d6c0379233ad",
+      "name": "Erma Wooten",
+      "position": "Mobile App Developer",
+      "avatar": "OSLO-10.svg",
+      "skills": [
+        {
+          "skill": "System Design",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e1fc1a368093a02a8",
+      "index": 108,
+      "guid": "bb0dff6a-927b-48b6-94da-295c39ff7c06",
+      "name": "Tanya Tate",
+      "position": "Artificial Intelligence Engineer",
+      "avatar": "No comments 7.svg",
+      "skills": [
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3b93c098fc3e6b03",
+      "index": 109,
+      "guid": "bb0055f3-08fc-41e2-97fd-0578ca2102da",
+      "name": "Tricia Mcintyre",
+      "position": "Software Engineer",
+      "avatar": "Funny Bunny.svg",
+      "skills": [
+        {
+          "skill": "Mobile Development",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec880def966e320a1",
+      "index": 110,
+      "guid": "1c3dd898-4f6a-4623-a8f3-f10a08f697c6",
+      "name": "Whitaker Barlow",
+      "position": "Training and Development Manager",
+      "avatar": "Upstream-9.svg",
+      "skills": [
+        {
+          "skill": "C++",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e57d2021f02a39e7a",
+      "index": 111,
+      "guid": "eb6ab118-f02f-4232-8cb3-a1fed291ecd7",
+      "name": "Lopez Alexander",
+      "position": "Sales Executive",
+      "avatar": "No gravity-3.svg",
+      "skills": [
+        {
+          "skill": "Database Management",
+          "expertise": 5
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 4
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 2
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 3
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 4
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 4
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eab020fe86702610d",
+      "index": 112,
+      "guid": "f6d90bcc-0662-4d3b-bed2-aaddd23647f8",
+      "name": "Sheena Dennis",
+      "position": "Artificial Intelligence Engineer",
+      "avatar": "Cranks.svg",
+      "skills": [
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 2
+        },
+        {
+          "skill": "PHP",
+          "expertise": 1
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eba2e0e5c43c83ac8",
+      "index": 113,
+      "guid": "16661080-c62e-467f-a473-12220c0890d1",
+      "name": "Aline Mercer",
+      "position": "Cloud Engineer",
+      "avatar": "Upstream.svg",
+      "skills": [
+        {
+          "skill": "DevOps Practices",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eacd420321da7c05f",
+      "index": 114,
+      "guid": "e3661600-f6d0-420d-9969-6a44b3e317fb",
+      "name": "Whitney Charles",
+      "position": "Marketing Specialist",
+      "avatar": "OSLO-14.svg",
+      "skills": [
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 2
+        },
+        {
+          "skill": "C#",
+          "expertise": 5
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 4
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 4
+        },
+        {
+          "skill": "System Design",
+          "expertise": 2
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7efbdfca45b973614c",
+      "index": 115,
+      "guid": "383f50de-d219-46c3-a2fd-905d1cbb98e2",
+      "name": "Buckner Jackson",
+      "position": "Data Analyst",
+      "avatar": "OSLO-7.svg",
+      "skills": [
+        {
+          "skill": "C++",
+          "expertise": 2
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 1
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 3
+        },
+        {
+          "skill": "C#",
+          "expertise": 4
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 3
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 2
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 5
+        },
+        {
+          "skill": "C++",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ee5706a651869360e",
+      "index": 116,
+      "guid": "a236bc23-247e-412c-a867-b36d484ab9f0",
+      "name": "Melton Best",
+      "position": "Customer Service Representative",
+      "avatar": "OSLO-7.svg",
+      "skills": [
+        {
+          "skill": "API Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 1
+        },
+        {
+          "skill": "Swift",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e66b3e351f4ea4033",
+      "index": 117,
+      "guid": "85b3f031-5868-426e-a454-f8bea64557f1",
+      "name": "Osborne Carey",
+      "position": "E-commerce Specialist",
+      "avatar": "Upstream-14.svg",
+      "skills": [
+        {
+          "skill": "Software Testing",
+          "expertise": 3
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 2
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 5
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 4
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 1
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 3
+        },
+        {
+          "skill": "C#",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e86af2e8e7188576b",
+      "index": 118,
+      "guid": "363fbaed-7cd0-4670-9091-4d9a88441131",
+      "name": "Sims Garrett",
+      "position": "Sales Manager",
+      "avatar": "Guacamole-1.svg",
+      "skills": [
+        {
+          "skill": "Python",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec20c2725e07e816a",
+      "index": 119,
+      "guid": "534c5162-a204-4e60-aa65-4998d226cff6",
+      "name": "Becker Marshall",
+      "position": "Chief Financial Officer",
+      "avatar": "Delivery boy-2.svg",
+      "skills": [
+        {
+          "skill": "Algorithms",
+          "expertise": 1
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 3
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 3
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 3
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 2
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 5
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 3
+        },
+        {
+          "skill": "C++",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e2c10e4a6a29d6445",
+      "index": 120,
+      "guid": "1a5757e7-35d0-4e48-b838-9589f5c0efb7",
+      "name": "Burt Nixon",
+      "position": "Public Relations Manager",
+      "avatar": "Funny Bunny-1.svg",
+      "skills": [
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e2d5e15077c51ea30",
+      "index": 121,
+      "guid": "73fae353-f25b-4158-9483-cc2809fa9ffd",
+      "name": "Lorraine Stout",
+      "position": "Artificial Intelligence Engineer",
+      "avatar": "No comments 7.svg",
+      "skills": [
+        {
+          "skill": "Software Testing",
+          "expertise": 4
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 4
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 3
+        },
+        {
+          "skill": "API Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 5
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0a78bdcb532e8966",
+      "index": 122,
+      "guid": "265693d0-c322-4d1c-af52-6ade43456108",
+      "name": "Marjorie Walters",
+      "position": "Market Research Analyst",
+      "avatar": "Delivery boy-3.svg",
+      "skills": [
+        {
+          "skill": "Technical Writing",
+          "expertise": 3
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 3
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 1
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 4
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e514454712a1419a2",
+      "index": 123,
+      "guid": "27345d6b-f501-4c84-863a-7ac02e16165a",
+      "name": "Marcella Garner",
+      "position": "Graphic Designer",
+      "avatar": "No comments 7.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 3
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 4
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 5
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 1
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 2
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 5
+        },
+        {
+          "skill": "C++",
+          "expertise": 4
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e340a8317d13aa8a1",
+      "index": 124,
+      "guid": "9282d598-472e-478e-95f4-271d2acd8d5c",
+      "name": "Althea Kent",
+      "position": "Database Administrator",
+      "avatar": "OSLO-12.svg",
+      "skills": [
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 1
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 1
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 4
+        },
+        {
+          "skill": "C#",
+          "expertise": 3
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 5
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 1
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ef45ed41957e72457",
+      "index": 125,
+      "guid": "9a8ad4a7-5756-420f-b833-984fb890a024",
+      "name": "Payne Dillard",
+      "position": "Cloud Engineer",
+      "avatar": "Upstream-1.svg",
+      "skills": [
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        },
+        {
+          "skill": "C++",
+          "expertise": 1
+        },
+        {
+          "skill": "PHP",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 3
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 5
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 3
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e6a173ec551c289e9",
+      "index": 126,
+      "guid": "3c098b23-e2c5-4ad0-b2f2-db5bb99acc2a",
+      "name": "Golden Clayton",
+      "position": "Sales Executive",
+      "avatar": "No comments 8.svg",
+      "skills": [
+        {
+          "skill": "Software Testing",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e726ad830a136633a",
+      "index": 127,
+      "guid": "8b6d9ca2-33e6-4551-8e96-a8e25fee7b2f",
+      "name": "English Maddox",
+      "position": "Account Manager",
+      "avatar": "Funny Bunny-3.svg",
+      "skills": [
+        {
+          "skill": "Web Development",
+          "expertise": 5
+        },
+        {
+          "skill": "C++",
+          "expertise": 5
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 4
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 5
+        },
+        {
+          "skill": "Python",
+          "expertise": 5
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0df715f6569faa34",
+      "index": 128,
+      "guid": "82fa8d3c-8019-41f9-acb9-0035228899d9",
+      "name": "Cara Gilliam",
+      "position": "Content Strategist",
+      "avatar": "OSLO-9.svg",
+      "skills": [
+        {
+          "skill": "Python",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 3
+        },
+        {
+          "skill": "C#",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eddc1be70d42014ec",
+      "index": 129,
+      "guid": "37b4da85-fc41-4b2c-acc3-f73271a55bbd",
+      "name": "Hoover Torres",
+      "position": "Graphic Designer",
+      "avatar": "No Comments-2.svg",
+      "skills": [
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 3
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 2
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 5
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 3
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 3
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        },
+        {
+          "skill": "Go",
+          "expertise": 4
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 1
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0f8f954912ea3815",
+      "index": 130,
+      "guid": "aad8a361-fd28-4eda-a45f-1af2ed1d6e4c",
+      "name": "Ramona Ortega",
+      "position": "Market Research Analyst",
+      "avatar": "OSLO-4.svg",
+      "skills": [
+        {
+          "skill": "Concurrency",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eea636ee43d79a18f",
+      "index": 131,
+      "guid": "39dd1599-b312-430a-85d1-aa0920b59209",
+      "name": "Michael Henry",
+      "position": "Supply Chain Manager",
+      "avatar": "Teamwork-1.svg",
+      "skills": [
+        {
+          "skill": "HTML/CSS",
+          "expertise": 3
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 5
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 4
+        },
+        {
+          "skill": "System Design",
+          "expertise": 1
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 1
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 3
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e5552a0a5cbb1d85a",
+      "index": 132,
+      "guid": "4770d29f-af95-483f-9d37-aa97fe13d2f8",
+      "name": "Shannon Boyle",
+      "position": "SEO Specialist",
+      "avatar": "E-commerce-1.svg",
+      "skills": [
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Swift",
+          "expertise": 3
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 3
+        },
+        {
+          "skill": "PHP",
+          "expertise": 2
+        },
+        {
+          "skill": "C++",
+          "expertise": 4
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 3
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 5
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 4
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 1
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e662edd9ed5e1d3c1",
+      "index": 133,
+      "guid": "2a456fe5-b01d-46e3-a5a8-02daf8401003",
+      "name": "Donovan Wagner",
+      "position": "Public Relations Manager",
+      "avatar": "No Comments-1.svg",
+      "skills": [
+        {
+          "skill": "Communication Skills",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 1
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 1
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e3daa52358b102c84",
+      "index": 134,
+      "guid": "79ca9932-9238-4bf1-93e3-ae87e4e8fed2",
+      "name": "Ashley Ware",
+      "position": "Data Analyst",
+      "avatar": "OSLO-11.svg",
+      "skills": [
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 5
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 4
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 4
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 3
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e5e8a8352027997e5",
+      "index": 135,
+      "guid": "e9efd60e-1dc0-4255-b2eb-8c2b6e3dc8f3",
+      "name": "Beard Harrison",
+      "position": "Chief Technology Officer",
+      "avatar": "Upstream-11.svg",
+      "skills": [
+        {
+          "skill": "Concurrency",
+          "expertise": 3
+        },
+        {
+          "skill": "C#",
+          "expertise": 2
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 1
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 2
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 5
+        },
+        {
+          "skill": "C#",
+          "expertise": 4
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec25561577624d4dd",
+      "index": 136,
+      "guid": "6b3659a2-cd4e-4d0d-a449-50f359867c17",
+      "name": "Daniel Cotton",
+      "position": "IT Support Specialist",
+      "avatar": "Teamwork.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 1
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 3
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 1
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 3
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 1
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e5a94918f6c07779a",
+      "index": 137,
+      "guid": "2dee8e8c-1e2e-4839-bd86-6ac913d5dbfb",
+      "name": "Vang Higgins",
+      "position": "Product Manager",
+      "avatar": "OSLO-3.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 1
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 2
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eeea4de3891dae569",
+      "index": 138,
+      "guid": "f13e599e-7c78-4319-aaf1-319bff3b88c6",
+      "name": "Green Hill",
+      "position": "Financial Analyst",
+      "avatar": "OSLO-12.svg",
+      "skills": [
+        {
+          "skill": "C++",
+          "expertise": 5
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "SQL",
+          "expertise": 4
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 5
+        },
+        {
+          "skill": "Swift",
+          "expertise": 2
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eed1501381e52c227",
+      "index": 139,
+      "guid": "4b895050-3f06-4ae6-a793-c949edb204d4",
+      "name": "Compton Parsons",
+      "position": "Technical Support Specialist",
+      "avatar": "No comments 7.svg",
+      "skills": [
+        {
+          "skill": "Web Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Python",
+          "expertise": 4
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 5
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e5015dc41de21b917",
+      "index": 140,
+      "guid": "dc9a468b-3ad7-46ff-9998-9ce1c5db0227",
+      "name": "Hester Grant",
+      "position": "HR Manager",
+      "avatar": "Teamwork-7.svg",
+      "skills": [
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 4
+        },
+        {
+          "skill": "PHP",
+          "expertise": 2
+        },
+        {
+          "skill": "System Design",
+          "expertise": 4
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 3
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0d6d4d55753a1e97",
+      "index": 141,
+      "guid": "179dc00b-dfb5-48bc-8366-bb1d79f9e5a2",
+      "name": "Townsend Johnston",
+      "position": "Creative Director",
+      "avatar": "Upstream-8.svg",
+      "skills": [
+        {
+          "skill": "System Design",
+          "expertise": 2
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 2
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eb9375bd3be94f66d",
+      "index": 142,
+      "guid": "5d9293d1-e7e5-404b-9ff1-a341a031e573",
+      "name": "Tania Crosby",
+      "position": "Content Strategist",
+      "avatar": "Teamwork-3.svg",
+      "skills": [
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 3
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 5
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 2
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 3
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 5
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 3
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        },
+        {
+          "skill": "C#",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e8857ea9bcd2ea75f",
+      "index": 143,
+      "guid": "d96a5471-73e2-4d99-b787-61ca54498007",
+      "name": "Barbara Kelly",
+      "position": "Executive Assistant",
+      "avatar": "OSLO-11.svg",
+      "skills": [
+        {
+          "skill": "Project Management",
+          "expertise": 2
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 1
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e11cfe99597062fc0",
+      "index": 144,
+      "guid": "36138f84-bf41-4c81-a678-eeece05eeafe",
+      "name": "Stewart Harrington",
+      "position": "DevOps Engineer",
+      "avatar": "No Comments-3.svg",
+      "skills": [
+        {
+          "skill": "Communication Skills",
+          "expertise": 4
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 1
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 1
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e2ac446000b010d09",
+      "index": 145,
+      "guid": "783faf5c-395b-4160-8bd6-4ba2d8772c7c",
+      "name": "Darla Holloway",
+      "position": "Project Manager",
+      "avatar": "Funny Bunny-3.svg",
+      "skills": [
+        {
+          "skill": "SQL",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 3
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 4
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 4
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7efe709c7996bbe825",
+      "index": 146,
+      "guid": "e56ed15f-d407-43ed-a59f-a00c30918f9f",
+      "name": "Bentley Beach",
+      "position": "Chief Executive Officer",
+      "avatar": "No Comments-2.svg",
+      "skills": [
+        {
+          "skill": "Algorithms",
+          "expertise": 1
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 2
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 4
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "SQL",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e9a38e103eac9336b",
+      "index": 147,
+      "guid": "0e4676f0-cc87-4962-aba0-135927d7d074",
+      "name": "Cobb Vega",
+      "position": "Graphic Designer",
+      "avatar": "OSLO-5.svg",
+      "skills": [
+        {
+          "skill": "Python",
+          "expertise": 2
+        },
+        {
+          "skill": "Swift",
+          "expertise": 5
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 5
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 1
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 2
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 4
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e51042ba3fda26226",
+      "index": 148,
+      "guid": "35086fbf-ac31-436b-998a-9834919af5bc",
+      "name": "Lindsey Langley",
+      "position": "Quality Assurance Engineer",
+      "avatar": "No gravity.svg",
+      "skills": [
+        {
+          "skill": "Database Management",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e8439565752fbb900",
+      "index": 149,
+      "guid": "51eebfaf-a739-42c5-86c8-74269e178ddb",
+      "name": "Marian Oconnor",
+      "position": "Digital Marketing Manager",
+      "avatar": "Upstream-2.svg",
+      "skills": [
+        {
+          "skill": "Project Management",
+          "expertise": 3
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 3
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e649edac3cb37af95",
+      "index": 150,
+      "guid": "662c522c-e9db-4b17-8a82-86b4c723ec38",
+      "name": "Watkins Schroeder",
+      "position": "Graphic Designer",
+      "avatar": "No Comments-2.svg",
+      "skills": [
+        {
+          "skill": "Debugging",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e9773498055748b2c",
+      "index": 151,
+      "guid": "f1e437c5-39d9-4a72-9cd0-f16e47e635a5",
+      "name": "Simon Carlson",
+      "position": "UX/UI Designer",
+      "avatar": "Cranks.svg",
+      "skills": [
+        {
+          "skill": "Communication Skills",
+          "expertise": 3
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 3
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 4
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 4
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e9c2567c5e0882f7c",
+      "index": 152,
+      "guid": "e7f5c5ea-5acb-4452-b094-f6d421843a16",
+      "name": "Deleon Zimmerman",
+      "position": "Supply Chain Manager",
+      "avatar": "OSLO.svg",
+      "skills": [
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 5
+        },
+        {
+          "skill": "Swift",
+          "expertise": 1
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 4
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 3
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 3
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 2
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 2
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 4
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ec2b638ec390980df",
+      "index": 153,
+      "guid": "cd98d6ec-cccb-41fa-bdfc-f1d134effc65",
+      "name": "Riddle Gilmore",
+      "position": "IT Support Specialist",
+      "avatar": "Upstream-6.svg",
+      "skills": [
+        {
+          "skill": "Web Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 5
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 2
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 3
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 5
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 5
+        },
+        {
+          "skill": "Python",
+          "expertise": 2
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e46ceb58be9ed85df",
+      "index": 154,
+      "guid": "6b504c26-641b-41d0-88da-32154f3227a6",
+      "name": "Noel Sharp",
+      "position": "Software Engineer",
+      "avatar": "OSLO-3.svg",
+      "skills": [
+        {
+          "skill": "Problem Solving",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e7f1ccdd3af980ba2",
+      "index": 155,
+      "guid": "4eeea11d-268d-4dd2-ad62-8e533beb56cc",
+      "name": "Renee Mcclain",
+      "position": "Event Coordinator",
+      "avatar": "Funny Bunny-7.svg",
+      "skills": [
+        {
+          "skill": "Communication Skills",
+          "expertise": 2
+        },
+        {
+          "skill": "C#",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ebd38f90ead8af4fc",
+      "index": 156,
+      "guid": "75dc90a9-b2d2-4452-aa86-7d7e776afec1",
+      "name": "Howard Forbes",
+      "position": "Supply Chain Manager",
+      "avatar": "No Comments.svg",
+      "skills": [
+        {
+          "skill": "Kotlin",
+          "expertise": 4
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 5
+        },
+        {
+          "skill": "Swift",
+          "expertise": 5
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 1
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ed6d2d62b56382e05",
+      "index": 157,
+      "guid": "9dd2fda9-fa86-42ed-ab76-aaf56e20f12a",
+      "name": "Elisa Mullins",
+      "position": "Customer Service Representative",
+      "avatar": "No comments 9.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 2
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 2
+        },
+        {
+          "skill": "Project Management",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e751c9d835ad6fb48",
+      "index": 158,
+      "guid": "36fde4f3-f0a1-49f6-84c0-fba31e7d24c6",
+      "name": "Sophie Hoffman",
+      "position": "Software Engineer",
+      "avatar": "Guacamole-2.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 3
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 4
+        },
+        {
+          "skill": "C++",
+          "expertise": 4
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 3
+        },
+        {
+          "skill": "System Design",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e96a1b4ffc27f56fc",
+      "index": 159,
+      "guid": "349f6711-37cf-47d5-bb54-6ec4a9798312",
+      "name": "Matilda Shannon",
+      "position": "Digital Marketing Manager",
+      "avatar": "OSLO-14.svg",
+      "skills": [
+        {
+          "skill": "System Design",
+          "expertise": 3
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 3
+        },
+        {
+          "skill": "API Development",
+          "expertise": 4
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0f54c850c21a463f",
+      "index": 160,
+      "guid": "0f85855f-7864-4ceb-a00c-18b1fb1f1ecc",
+      "name": "Debbie Melton",
+      "position": "Cloud Engineer",
+      "avatar": "No comments 3.svg",
+      "skills": [
+        {
+          "skill": "JavaScript",
+          "expertise": 2
+        },
+        {
+          "skill": "API Development",
+          "expertise": 1
+        },
+        {
+          "skill": "System Design",
+          "expertise": 1
+        },
+        {
+          "skill": "PHP",
+          "expertise": 1
+        },
+        {
+          "skill": "SQL",
+          "expertise": 2
+        },
+        {
+          "skill": "System Design",
+          "expertise": 2
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 1
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ebc53676f42d3bf26",
+      "index": 161,
+      "guid": "8eb04364-d0bf-4e43-b086-200ea1c3570a",
+      "name": "Juliet Acevedo",
+      "position": "Content Strategist",
+      "avatar": "Delivery boy-3.svg",
+      "skills": [
+        {
+          "skill": "Continuous Integration",
+          "expertise": 5
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 3
+        },
+        {
+          "skill": "Go",
+          "expertise": 1
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 2
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 5
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 2
+        },
+        {
+          "skill": "C++",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e12b2f47dbecde9ce",
+      "index": 162,
+      "guid": "e3ced30a-4b2f-4761-af9d-d9e6d1229e5d",
+      "name": "Newman Bolton",
+      "position": "Market Research Analyst",
+      "avatar": "Teamwork-1.svg",
+      "skills": [
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 5
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 3
+        },
+        {
+          "skill": "System Design",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e619ab79a002bda0d",
+      "index": 163,
+      "guid": "c20a3867-12c5-4a62-a3e1-392a7abb8e4f",
+      "name": "Mccormick Berger",
+      "position": "Project Manager",
+      "avatar": "E-commerce-1.svg",
+      "skills": [
+        {
+          "skill": "Communication Skills",
+          "expertise": 2
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 4
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Kotlin",
+          "expertise": 1
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 5
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 4
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 2
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Python",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eb8219a0960ce4f15",
+      "index": 164,
+      "guid": "2b6afdbc-f8d5-4b00-a438-e1c31b1b7cfa",
+      "name": "Edwina Mosley",
+      "position": "Content Writer",
+      "avatar": "Upstream-10.svg",
+      "skills": [
+        {
+          "skill": "Mobile Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        },
+        {
+          "skill": "Java",
+          "expertise": 3
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e750144bef135e33b",
+      "index": 165,
+      "guid": "aa33f60f-2bb8-4c51-afc4-725953e3455e",
+      "name": "Lynette Dejesus",
+      "position": "Creative Director",
+      "avatar": "No Comments-2.svg",
+      "skills": [
+        {
+          "skill": "Software Documentation",
+          "expertise": 1
+        },
+        {
+          "skill": "Go",
+          "expertise": 5
+        },
+        {
+          "skill": "Python",
+          "expertise": 1
+        },
+        {
+          "skill": "Go",
+          "expertise": 3
+        },
+        {
+          "skill": "Java",
+          "expertise": 1
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 1
+        },
+        {
+          "skill": "C++",
+          "expertise": 4
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e59f297086fe25371",
+      "index": 166,
+      "guid": "145fe7da-c275-4794-82d7-2844cf8e0568",
+      "name": "Kendra Hall",
+      "position": "Content Strategist",
+      "avatar": "No comments 4.svg",
+      "skills": [
+        {
+          "skill": "Mobile Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 3
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Go",
+          "expertise": 4
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Go",
+          "expertise": 3
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 3
+        },
+        {
+          "skill": "Networking Basics",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e5b08ad4e15735e2f",
+      "index": 167,
+      "guid": "7e40edf8-290b-4d76-b2ff-3f723a8a5b10",
+      "name": "Maureen Sears",
+      "position": "Research Scientist",
+      "avatar": "Teamwork-1.svg",
+      "skills": [
+        {
+          "skill": "Technical Writing",
+          "expertise": 1
+        },
+        {
+          "skill": "Python",
+          "expertise": 2
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 3
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 3
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 2
+        },
+        {
+          "skill": "C++",
+          "expertise": 5
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 4
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7efb51867f55767a7e",
+      "index": 168,
+      "guid": "a5c8d663-238d-469b-9a7a-aabd335cbea7",
+      "name": "Nicholson Mcbride",
+      "position": "UX/UI Designer",
+      "avatar": "Upstream-16.svg",
+      "skills": [
+        {
+          "skill": "Debugging",
+          "expertise": 4
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 2
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 5
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 3
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 3
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 3
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 4
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 1
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ee2c33e161f836f72",
+      "index": 169,
+      "guid": "ba366d39-511b-4a92-806c-03c3ef8de74f",
+      "name": "Alisha Williams",
+      "position": "Training and Development Manager",
+      "avatar": "Guacamole-1.svg",
+      "skills": [
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 1
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 2
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e2c27bbd32ecad9c2",
+      "index": 170,
+      "guid": "e0e1859a-be74-4731-9f53-a289242952e0",
+      "name": "Patrica Gilbert",
+      "position": "SEO Specialist",
+      "avatar": "No gravity-1.svg",
+      "skills": [
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 3
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 3
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 3
+        },
+        {
+          "skill": "Java",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e0448eaacde7f21c3",
+      "index": 171,
+      "guid": "6cc05a27-ec62-4964-bc72-8ffdb17e0568",
+      "name": "Bolton Campbell",
+      "position": "HR Manager",
+      "avatar": "OSLO-10.svg",
+      "skills": [
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 5
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 3
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 2
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 1
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ebd9ed09aee48696d",
+      "index": 172,
+      "guid": "a2f0511b-6b5c-4799-8cf9-5c955d6f90d6",
+      "name": "Elsa Marsh",
+      "position": "Recruiter",
+      "avatar": "Funny Bunny-4.svg",
+      "skills": [
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 2
+        },
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 3
+        },
+        {
+          "skill": "Go",
+          "expertise": 4
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 2
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 1
+        },
+        {
+          "skill": "Go",
+          "expertise": 1
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e5b384b0cad67cd4f",
+      "index": 173,
+      "guid": "05be1390-8660-4eee-9f8c-242db3689b4d",
+      "name": "Hebert Ward",
+      "position": "Supply Chain Manager",
+      "avatar": "Cranks-2.svg",
+      "skills": [
+        {
+          "skill": "Java",
+          "expertise": 2
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 2
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 2
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 2
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 4
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 5
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 5
+        },
+        {
+          "skill": "API Development",
+          "expertise": 4
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 4
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e875937b6bd67d199",
+      "index": 174,
+      "guid": "307f2783-2a75-46d5-a3a8-24b2f4618b7d",
+      "name": "Grace Cabrera",
+      "position": "Supply Chain Manager",
+      "avatar": "Upstream-13.svg",
+      "skills": [
+        {
+          "skill": "API Development",
+          "expertise": 5
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Java",
+          "expertise": 5
+        },
+        {
+          "skill": "Continuous Integration",
+          "expertise": 3
+        },
+        {
+          "skill": "HTML/CSS",
+          "expertise": 3
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 5
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 2
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e4f83c26fd2bdc3d7",
+      "index": 175,
+      "guid": "ce80f3d0-061f-41eb-83a1-3fc89c64ec99",
+      "name": "Fields Ingram",
+      "position": "UX/UI Designer",
+      "avatar": "No Comments-3.svg",
+      "skills": [
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 5
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 4
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 1
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 3
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ea409ebd3f736e541",
+      "index": 176,
+      "guid": "5203d639-e5d0-43ac-b3e1-19287c3e4bf4",
+      "name": "Minnie Bush",
+      "position": "Software Engineer",
+      "avatar": "Funny Bunny-4.svg",
+      "skills": [
+        {
+          "skill": "Python",
+          "expertise": 4
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 2
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 3
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 3
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 5
+        },
+        {
+          "skill": "Performance Optimization",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e4e197975e5aef735",
+      "index": 177,
+      "guid": "60432cfb-8fd2-436a-baa8-5383cb8c48a9",
+      "name": "Brenda Morgan",
+      "position": "Sales Manager",
+      "avatar": "Funny Bunny-1.svg",
+      "skills": [
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 3
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 1
+        },
+        {
+          "skill": "Go",
+          "expertise": 5
+        },
+        {
+          "skill": "Database Management",
+          "expertise": 1
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7eec5c9e095a4af3a3",
+      "index": 178,
+      "guid": "065c9ee9-d094-4072-941a-8c61d5004702",
+      "name": "Debra Chandler",
+      "position": "IT Support Specialist",
+      "avatar": "Funny Bunny-3.svg",
+      "skills": [
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 5
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 5
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 2
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 3
+        },
+        {
+          "skill": "PHP",
+          "expertise": 4
+        },
+        {
+          "skill": "PHP",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 2
+        },
+        {
+          "skill": "Communication Skills",
+          "expertise": 3
+        }
+      ]
+    },
+    {
+      "_id": "6708be7ef51ec0c7f5cfa4a8",
+      "index": 179,
+      "guid": "60f44364-65dd-41bc-8473-d479eeab52c9",
+      "name": "Kayla Burke",
+      "position": "Web Developer",
+      "avatar": "OSLO-3.svg",
+      "skills": [
+        {
+          "skill": "Software Documentation",
+          "expertise": 5
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 5
+        },
+        {
+          "skill": "Containerization",
+          "expertise": 1
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 1
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 4
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e94ddd045c3b7fb2d",
+      "index": 180,
+      "guid": "1478a3c0-cd99-4c04-8715-6a15dc03f8e9",
+      "name": "Christensen Hardin",
+      "position": "Business Development Manager",
+      "avatar": "Cranks.svg",
+      "skills": [
+        {
+          "skill": "HTML/CSS",
+          "expertise": 1
+        },
+        {
+          "skill": "System Design",
+          "expertise": 2
+        },
+        {
+          "skill": "C++",
+          "expertise": 4
+        },
+        {
+          "skill": "Mobile Development",
+          "expertise": 3
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 2
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 1
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 2
+        },
+        {
+          "skill": "UI/UX Principles",
+          "expertise": 4
+        },
+        {
+          "skill": "Python",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e4bc35bc223c7027a",
+      "index": 181,
+      "guid": "f356656e-eb5f-4759-bc9d-e0ecbca239ba",
+      "name": "Alexandra Hanson",
+      "position": "Digital Marketing Manager",
+      "avatar": "Teamwork-3.svg",
+      "skills": [
+        {
+          "skill": "Communication Skills",
+          "expertise": 2
+        },
+        {
+          "skill": "Python",
+          "expertise": 3
+        },
+        {
+          "skill": "Python",
+          "expertise": 1
+        },
+        {
+          "skill": "PHP",
+          "expertise": 4
+        },
+        {
+          "skill": "Team Collaboration",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e21edcc9fd40e24ec",
+      "index": 182,
+      "guid": "6f7d8861-e1e7-426b-80d3-9f43aa491b8a",
+      "name": "Pitts Holman",
+      "position": "Content Strategist",
+      "avatar": "Upstream-13.svg",
+      "skills": [
+        {
+          "skill": "Performance Optimization",
+          "expertise": 5
+        },
+        {
+          "skill": "Cross-Platform Development",
+          "expertise": 1
+        },
+        {
+          "skill": "Java",
+          "expertise": 3
+        },
+        {
+          "skill": "DevOps Practices",
+          "expertise": 4
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e4cf3c07cac52354d",
+      "index": 183,
+      "guid": "f28f69a5-d151-4c86-ab1e-1ba0a2873297",
+      "name": "Mckay Pittman",
+      "position": "Compliance Officer",
+      "avatar": "01.svg",
+      "skills": [
+        {
+          "skill": "Debugging",
+          "expertise": 4
+        },
+        {
+          "skill": "Python",
+          "expertise": 4
+        },
+        {
+          "skill": "Microservices Architecture",
+          "expertise": 1
+        },
+        {
+          "skill": "Agile Methodologies",
+          "expertise": 4
+        },
+        {
+          "skill": "Software Documentation",
+          "expertise": 5
+        },
+        {
+          "skill": "SQL",
+          "expertise": 1
+        },
+        {
+          "skill": "Go",
+          "expertise": 3
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e307f1b81e8a48868",
+      "index": 184,
+      "guid": "8175a69e-c035-4935-8970-da6c1b9b3fe5",
+      "name": "Margarita Palmer",
+      "position": "Data Analyst",
+      "avatar": "OSLO-9.svg",
+      "skills": [
+        {
+          "skill": "System Design",
+          "expertise": 1
+        },
+        {
+          "skill": "Problem Solving",
+          "expertise": 3
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 1
+        },
+        {
+          "skill": "Data Structures",
+          "expertise": 4
+        },
+        {
+          "skill": "Swift",
+          "expertise": 1
+        },
+        {
+          "skill": "SQL",
+          "expertise": 3
+        },
+        {
+          "skill": "JavaScript",
+          "expertise": 5
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e1c189fb8b8fabcdd",
+      "index": 185,
+      "guid": "c672310e-eede-4b81-9aa6-49f901c35d07",
+      "name": "Brittney Valenzuela",
+      "position": "Event Coordinator",
+      "avatar": "No comments 5.svg",
+      "skills": [
+        {
+          "skill": "Version Control (Git)",
+          "expertise": 5
+        },
+        {
+          "skill": "Web Development",
+          "expertise": 4
+        },
+        {
+          "skill": "C#",
+          "expertise": 3
+        },
+        {
+          "skill": "Software Testing",
+          "expertise": 3
+        },
+        {
+          "skill": "Cloud Computing",
+          "expertise": 5
+        },
+        {
+          "skill": "Cybersecurity Principles",
+          "expertise": 5
+        },
+        {
+          "skill": "Debugging",
+          "expertise": 3
+        },
+        {
+          "skill": "Technical Writing",
+          "expertise": 2
+        },
+        {
+          "skill": "Ruby",
+          "expertise": 1
+        },
+        {
+          "skill": "Concurrency",
+          "expertise": 2
+        }
+      ]
+    },
+    {
+      "_id": "6708be7e322dac4a144ed61b",
+      "index": 186,
+      "guid": "18a3e63e-b380-4bc5-9289-175d1c43edf8",
+      "name": "Serrano Fitzpatrick",
+      "position": "Technical Support Specialist",
+      "avatar": "OSLO-11.svg",
+      "skills": [
+        {
+          "skill": "Code Review",
+          "expertise": 2
+        },
+        {
+          "skill": "SQL",
+          "expertise": 2
+        },
+        {
+          "skill": "Algorithms",
+          "expertise": 2
+        },
+        {
+          "skill": "Go",
+          "expertise": 2
+        }
+      ]
+    }
+  ]

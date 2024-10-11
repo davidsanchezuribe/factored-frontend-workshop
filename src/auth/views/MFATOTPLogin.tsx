@@ -53,9 +53,4 @@ const MFATOTPLogin = ({
   );
 };
 
-MFATOTPLogin.defaultProps = {
-  onSuccess: undefined,
-  onSuccessMessage: undefined,
-};
-
 export default MFATOTPLogin;

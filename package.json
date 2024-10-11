@@ -5,7 +5,7 @@
   "scripts": {
     "compile": "webpack",
     "serve": "webpack serve",
-    "deploy": "webpack --env NODE_ENV=production DOMAIN=davidsanchezuribe.com SUBDOMAIN=music-groups && sh ./serverDeploy.sh",
+    "deploy": "webpack --env NODE_ENV=production DOMAIN=davidsanchezuribe.com SUBDOMAIN=factored && sh ./serverDeploy.sh",
     "clean": "rm -rf node_modules dist",
     "push": "git pull && git add . && git commit -m \"${m=new_commit}\" && git push origin master"
   },

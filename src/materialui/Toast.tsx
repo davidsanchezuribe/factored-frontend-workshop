@@ -119,14 +119,6 @@ const Toast = ({
   );
 };
 
-Toast.defaultProps = {
-  vertical: undefined,
-  horizontal: undefined,
-  slide: undefined,
-  persistOnClickAway: undefined,
-  button: undefined,
-};
-
 export type ToastFn = (
   message: string,
   severity?: 'success' | 'warning' | 'info' | 'error',

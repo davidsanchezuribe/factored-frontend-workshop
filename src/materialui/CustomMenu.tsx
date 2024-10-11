@@ -118,16 +118,4 @@ const Menu = (props: CustomMenuProps) => {
   );
 };
 
-Menu.defaultProps = {
-  hideBreakpoints: undefined,
-  MenuIcon: undefined,
-  tooltip: undefined,
-  direction: undefined,
-  pathOrAction: undefined,
-  links: undefined,
-  flexGrow: undefined,
-  badgeContent: undefined,
-  isAlert: undefined,
-};
-
 export default Menu;

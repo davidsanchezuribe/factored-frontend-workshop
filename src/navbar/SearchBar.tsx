@@ -92,8 +92,4 @@ const SearchBar = ({ placeholder, action, hideOnXS }: SearchBarProps) => {
   );
 };
 
-SearchBar.defaultProps = {
-  hideOnXS: undefined,
-};
-
 export default SearchBar;

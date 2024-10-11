@@ -236,9 +236,4 @@ export const useReauthentication = () => {
   };
 };
 
-Reauthentication.defaultProps = {
-  successMessage: undefined,
-  onSuccess: undefined,
-};
-
 export default Reauthentication;

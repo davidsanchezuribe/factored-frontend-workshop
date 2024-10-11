@@ -24,8 +24,4 @@ const StrengthBar = ({ password }: StrengthBarProps) => {
   );
 };
 
-StrengthBar.defaultProps = {
-  password: undefined,
-};
-
 export default StrengthBar;

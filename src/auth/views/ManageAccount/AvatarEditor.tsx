@@ -107,9 +107,4 @@ const AvatarEditor = ({
   );
 };
 
-AvatarEditor.defaultProps = {
-  size: undefined,
-  collapse: undefined,
-};
-
 export default AvatarEditor;

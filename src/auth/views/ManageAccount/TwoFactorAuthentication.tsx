@@ -106,8 +106,4 @@ const TwoFactorAuthentication = ({
   );
 };
 
-TwoFactorAuthentication.defaultProps = {
-  preferredCountries: undefined,
-};
-
 export default TwoFactorAuthentication;

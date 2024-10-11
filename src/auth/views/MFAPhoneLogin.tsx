@@ -106,9 +106,4 @@ const MFAPhoneLogin = ({
   );
 };
 
-MFAPhoneLogin.defaultProps = {
-  onSuccess: undefined,
-  onSuccessMessage: undefined,
-};
-
 export default MFAPhoneLogin;

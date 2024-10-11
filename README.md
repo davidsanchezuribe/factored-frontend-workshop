@@ -1,1 +1,19 @@
 # factored-frontend-workshop
+[
+  '{{repeat(1, 200)}}',
+  {
+    _id: '{{objectId()}}',
+    index: '{{index()}}',
+    guid: '{{guid()}}',
+    name: '{{firstName()}} {{surname()}}',
+    position: '{{random("Software Engineer", "Project Manager", "Data Analyst", "Product Owner", "HR Manager", "Marketing Specialist", "DevOps Engineer", "UX/UI Designer", "Sales Executive", "Business Analyst", "Web Developer", "Quality Assurance Engineer", "Database Administrator", "Systems Analyst", "Network Administrator", "Graphic Designer", "Content Writer", "SEO Specialist", "Social Media Manager", "Customer Service Representative", "Chief Executive Officer", "Chief Technology Officer", "Chief Financial Officer", "Chief Operating Officer", "Product Manager", "Sales Manager", "Operations Manager", "IT Support Specialist", "Compliance Officer", "Supply Chain Manager", "Research Scientist", "Public Relations Manager", "Account Manager", "Training and Development Manager", "Digital Marketing Manager", "E-commerce Specialist", "Financial Analyst", "Recruiter", "Technical Support Specialist", "Event Coordinator", "Brand Manager", "Market Research Analyst", "Executive Assistant", "Business Development Manager", "Cloud Engineer", "Artificial Intelligence Engineer", "Mobile App Developer", "Network Engineer", "Content Strategist", "Creative Director")}}',
+    avatar: '{{random("01.svg", "Cranks-1.svg", "Cranks-2.svg", "Cranks.svg", "Delivery boy-1.svg", "Delivery boy-2.svg", "Delivery boy-3.svg", "Delivery boy-4.svg", "Delivery boy-5.svg", "Delivery boy.svg", "E-commerce-1.svg", "E-commerce-2.svg", "E-commerce.svg", "extractInfo.sh", "Funny Bunny-1.svg", "Funny Bunny-2.svg", "Funny Bunny-3.svg", "Funny Bunny-4.svg", "Funny Bunny-5.svg", "Funny Bunny-6.svg", "Funny Bunny-7.svg", "Funny Bunny-8.svg", "Funny Bunny.svg", "Guacamole-1.svg", "Guacamole-2.svg", "Guacamole-3.svg", "Guacamole.svg", "Juicy-1.svg", "Juicy.svg", "No Comments-1.svg", "No Comments-2.svg", "No comments 3.svg", "No Comments-3.svg", "No comments 4.svg", "No comments 5.svg", "No comments 6.svg", "No comments 7.svg", "No comments 8.svg", "No comments 9.svg", "No Comments.svg", "No gravity-1.svg", "No gravity-2.svg", "No gravity-3.svg", "No gravity.svg", "OSLO-10.svg", "OSLO-11.svg", "OSLO-12.svg", "OSLO-13.svg", "OSLO-14.svg", "OSLO-1.svg", "OSLO-2.svg", "OSLO-3.svg", "OSLO-4.svg", "OSLO-5.svg", "OSLO-6.svg", "OSLO-7.svg", "OSLO-8.svg", "OSLO-9.svg", "OSLO.svg", "Teamwork-1.svg", "Teamwork-2.svg", "Teamwork-3.svg", "Teamwork-4.svg", "Teamwork-5.svg", "Teamwork-6.svg", "Teamwork-7.svg", "Teamwork-8.svg", "Teamwork.svg", "Upstream-10.svg", "Upstream-11.svg", "Upstream-12.svg", "Upstream-13.svg", "Upstream-14.svg", "Upstream-15.svg", "Upstream-16.svg", "Upstream-17.svg", "Upstream-1.svg", "Upstream-2.svg", "Upstream-3.svg", "Upstream-4.svg", "Upstream-5.svg", "Upstream-6.svg", "Upstream-7.svg", "Upstream-8.svg", "Upstream-9.svg", "Upstream.svg")}}',
+    skills: [
+      '{{repeat(1,10)}}',
+      {
+        skill: '{{random("Python", "Java", "JavaScript", "C++", "C#", "Ruby", "Go", "Swift", "Kotlin", "PHP", "HTML/CSS", "SQL", "Version Control (Git)", "Data Structures", "Algorithms", "Database Management", "API Development", "Web Development", "Mobile Development", "DevOps Practices", "Cloud Computing", "Agile Methodologies", "Software Testing", "Debugging", "Problem Solving", "System Design", "Continuous Integration", "Microservices Architecture", "Containerization", "Cybersecurity Principles", "Software Documentation", "UI/UX Principles", "Performance Optimization", "Concurrency", "Networking Basics", "Cross-Platform Development", "Code Review", "Project Management", "Team Collaboration", "Communication Skills", "Technical Writing")}}',
+        expertise: '{{integer(1,5)}}'
+      }
+    ]
+  }
+]

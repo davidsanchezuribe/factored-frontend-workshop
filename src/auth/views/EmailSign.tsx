@@ -214,12 +214,4 @@ const EmailSign = ({
   );
 };
 
-EmailSign.defaultProps = {
-  setPassword: undefined,
-  visibleRecaptcha: undefined,
-  mfaPhonePreSignIn: undefined,
-  mfaPhonePostSignIn: undefined,
-  mfaTotpSignIn: undefined,
-};
-
 export default EmailSign;

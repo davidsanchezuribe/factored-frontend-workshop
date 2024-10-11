@@ -55,8 +55,4 @@ const MFAPhoneInputCode = ({
   );
 };
 
-MFAPhoneInputCode.defaultProps = {
-  verificationId: undefined,
-};
-
 export default MFAPhoneInputCode;

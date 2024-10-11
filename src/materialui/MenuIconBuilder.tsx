@@ -29,8 +29,4 @@ const MenuIconBuilder = ({ MenuIcon }: MenuIconBuilderProps) => {
   return <MenuIcon />;
 };
 
-MenuIconBuilder.defaultProps = {
-  MenuIcon: undefined,
-};
-
 export default MenuIconBuilder;

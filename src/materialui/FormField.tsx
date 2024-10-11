@@ -29,12 +29,4 @@ const FormField = ({
   </Box>
 );
 
-FormField.defaultProps = {
-  mt: undefined,
-  mr: undefined,
-  mb: undefined,
-  ml: undefined,
-  justifyContent: undefined,
-};
-
 export default FormField;

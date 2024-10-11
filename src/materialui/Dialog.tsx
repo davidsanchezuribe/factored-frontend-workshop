@@ -33,12 +33,4 @@ const Dialog = ({
   </FormLayout>
 );
 
-Dialog.defaultProps = {
-  Icon: undefined,
-  iconColor: undefined,
-  description: undefined,
-  primaryAction: undefined,
-  secondaryActions: undefined,
-};
-
 export default Dialog;

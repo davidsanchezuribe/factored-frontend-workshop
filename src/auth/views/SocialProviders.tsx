@@ -168,13 +168,4 @@ const SocialProviders = ({
   );
 };
 
-SocialProviders.defaultProps = {
-  onSuccess: undefined,
-  onSuccessMessage: undefined,
-  email: undefined,
-  setResolver: undefined,
-  setCheckingRedirect: undefined,
-  mb: undefined,
-};
-
 export default SocialProviders;

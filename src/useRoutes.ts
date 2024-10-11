@@ -1,47 +1,19 @@
-import MailIcon from '@mui/icons-material/Mail';
-import NotificationsIcon from '@mui/icons-material/Notifications';
-import useLocalization from './localization/useLocalization';
 import {
   IconRouteType, RouteType, buildIconPages, buildPages, buildRoutes,
 } from './routeHandlers';
-import HomePage from './views/HomePage';
-import PrivateExample from './views/PrivateExample';
+import CorporativeDirectory from './views/CorporativeDirectory';
 import { WithAuthType } from './views/WithAuthProps';
 
 const useRoutes = () => {
-  const { getMessages } = useLocalization();
-  const { routes: messages } = getMessages();
   const routeDefinitions: (homePath: string) => RouteType[] = (homePath: string) => [
-    { path: homePath, PublicComponent: HomePage },
-    { name: messages.test, path: 'test', PrivateComponent: PrivateExample },
-    { name: messages.action, action: () => { console.log('okis'); } },
+    { path: homePath, PrivateComponent: CorporativeDirectory },
   ];
   const pagesBuilder = (
     homePath: string,
     withAuth?: WithAuthType,
     authUser?: boolean,
   ) => buildPages(routeDefinitions(homePath), homePath, withAuth, authUser);
-  const iconRouteDefinitions: IconRouteType[] = [
-    {
-      Icon: MailIcon,
-      name: 'mail',
-      badgeContent: 17,
-      isAlert: true,
-      path: 'mail',
-      hideOnXS: true,
-      PublicComponent: HomePage,
-    },
-    {
-      Icon: NotificationsIcon,
-      name: 'notifications',
-      badgeContent: 2,
-      isAlert: false,
-      path: 'alerts',
-      disableOnMatch: true,
-      hideOnXS: false,
-      PrivateComponent: PrivateExample,
-    },
-  ];
+  const iconRouteDefinitions: IconRouteType[] = [];
   const routesBuilder = (
     homePath: string,
     withAuth?: WithAuthType,

@@ -100,13 +100,4 @@ const NavBarBuilder = ({
   );
 };
 
-NavBarBuilder.defaultProps = {
-  authSignOut: undefined,
-  pages: undefined,
-  iconPages: undefined,
-  paths: undefined,
-  refreshParent: undefined,
-  user: undefined,
-};
-
 export default NavBarBuilder;

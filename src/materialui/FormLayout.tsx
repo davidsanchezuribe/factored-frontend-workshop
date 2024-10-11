@@ -28,10 +28,4 @@ const FormLayout = ({
   </Grid>
 );
 
-FormLayout.defaultProps = {
-  titleBottomMargin: undefined,
-  large: undefined,
-  disableElevation: undefined,
-};
-
 export default FormLayout;

@@ -67,8 +67,4 @@ const MFAUnenroll = ({
   );
 };
 
-MFAUnenroll.defaultProps = {
-  enrolledPhone: undefined,
-};
-
 export default MFAUnenroll;

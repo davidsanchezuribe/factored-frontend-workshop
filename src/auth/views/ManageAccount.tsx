@@ -171,19 +171,4 @@ const ManageAccount = ({
   );
 };
 
-ManageAccount.defaultProps = {
-  sendVerificationLink: undefined,
-  setPassword: undefined,
-  manageAccount: undefined,
-  userPreferences: undefined,
-  updateUser: undefined,
-  visibleRecaptcha: undefined,
-  multiFactorAuthentication: undefined,
-  mfaPhoneEnrollment: undefined,
-  mfaUnenrollment: undefined,
-  mfaTotpGenerateSecret: undefined,
-  mfaTotpEnrollment: undefined,
-  deleteAccount: undefined,
-};
-
 export default ManageAccount;

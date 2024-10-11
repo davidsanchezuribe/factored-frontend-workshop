@@ -111,21 +111,4 @@ const Modal = ({
   );
 };
 
-Modal.defaultProps = {
-  title: undefined,
-  centerTitle: undefined,
-  description: undefined,
-  centerDescription: undefined,
-  children: undefined,
-  removePositive: undefined,
-  positiveLabel: undefined,
-  positiveAction: undefined,
-  removeNegative: undefined,
-  negativeLabel: undefined,
-  negativeAction: undefined,
-  aditionalActions: undefined,
-  preventClose: undefined,
-  slide: undefined,
-};
-
 export default Modal;

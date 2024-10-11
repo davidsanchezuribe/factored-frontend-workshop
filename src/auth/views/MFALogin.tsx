@@ -111,14 +111,4 @@ const MFALogin = ({
     );
 };
 
-MFALogin.defaultProps = {
-  visibleRecaptcha: undefined,
-  mfaPhonePreSignIn: undefined,
-  mfaPhonePostSignIn: undefined,
-  mfaTotpSignIn: undefined,
-  hideLayout: undefined,
-  onSuccess: undefined,
-  onSuccessMessage: undefined,
-};
-
 export default MFALogin;

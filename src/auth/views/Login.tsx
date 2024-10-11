@@ -224,15 +224,4 @@ const Login = ({
   );
 };
 
-Login.defaultProps = {
-  authSignIn: undefined,
-  sendSignLink: undefined,
-  hideSignUp: undefined,
-  hidePasswordReset: undefined,
-  visibleRecaptcha: undefined,
-  mfaPhonePreSignIn: undefined,
-  mfaPhonePostSignIn: undefined,
-  mfaTotpSignIn: undefined,
-};
-
 export default Login;

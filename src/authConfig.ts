@@ -7,8 +7,8 @@ const userAuthConfig: UserAuthConfig = {
     emailLinkLogin: true,
     passwordReset: true,
     googleLogin: true,
-    facebookLogin: true,
-    twitterLogin: true,
+    facebookLogin: false,
+    twitterLogin: false,
     twoFactorAuthentication: true,
   },
   manageAccount: {

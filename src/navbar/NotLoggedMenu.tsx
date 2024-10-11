@@ -59,9 +59,4 @@ const NotLoggedMenu = ({
   );
 };
 
-NotLoggedMenu.defaultProps = {
-  accountTooltipName: undefined,
-  signUp: undefined,
-};
-
 export default NotLoggedMenu;

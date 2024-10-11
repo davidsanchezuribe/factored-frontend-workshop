@@ -142,8 +142,4 @@ const SignUp = ({
   );
 };
 
-SignUp.defaultProps = {
-  displaySocialNetworksMessage: undefined,
-};
-
 export default SignUp;

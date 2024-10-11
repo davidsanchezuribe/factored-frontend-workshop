@@ -21,10 +21,4 @@ const SwitchMUI = (props: SwitchMUIProps & FieldHookConfig<boolean>) => {
   );
 };
 
-SwitchMUI.defaultProps = {
-  disableLabel: undefined,
-  enableLabel: undefined,
-  my: undefined,
-};
-
 export default SwitchMUI;

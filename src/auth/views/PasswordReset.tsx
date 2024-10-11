@@ -118,9 +118,4 @@ const PasswordReset = ({
   );
 };
 
-PasswordReset.defaultProps = {
-  hideSignUp: undefined,
-  displaySocialNetworksMessage: undefined,
-};
-
 export default PasswordReset;

@@ -195,8 +195,4 @@ const Preferences = ({
   );
 };
 
-Preferences.defaultProps = {
-  userPreferences: undefined,
-};
-
 export default withFileUploader(Preferences, 'image');

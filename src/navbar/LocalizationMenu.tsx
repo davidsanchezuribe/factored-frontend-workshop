@@ -48,8 +48,4 @@ const LocalizationMenu = ({
   );
 };
 
-LocalizationMenu.defaultProps = {
-  hideOnXS: undefined,
-};
-
 export default LocalizationMenu;

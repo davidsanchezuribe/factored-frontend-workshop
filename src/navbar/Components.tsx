@@ -30,12 +30,6 @@ export const MenuDropButton = ({
   );
 };
 
-MenuDropButton.defaultProps = {
-  name: undefined,
-  isTooltip: undefined,
-  action: undefined,
-};
-
 type MenuDropLinkProps = {
   parentMenuOpen: boolean,
 } & DropdownLinkProps;
@@ -174,9 +168,4 @@ export const MenuBadgeIconLink = ({
       </IconButton>
     </Tooltip>
   );
-};
-
-MenuBadgeIconLink.defaultProps = {
-  isAlert: undefined,
-  hideOnXS: undefined,
 };

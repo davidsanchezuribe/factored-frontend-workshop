@@ -67,15 +67,6 @@ const Loading = ({
   );
 };
 
-Loading.defaultProps = {
-  color: undefined,
-  size: undefined,
-  thickness: undefined,
-  horizontal: undefined,
-  vertical: undefined,
-  message: undefined,
-};
-
 export type WithLoadingProps = {
   loading: boolean,
   setLoading: (loading: boolean) => void,

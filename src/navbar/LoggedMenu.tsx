@@ -68,10 +68,4 @@ const LoggedMenu = ({
   );
 };
 
-LoggedMenu.defaultProps = {
-  accountTooltipName: undefined,
-  userName: undefined,
-  userImage: undefined,
-  greetingMessage: undefined,
-};
 export default LoggedMenu;

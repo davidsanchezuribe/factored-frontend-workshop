@@ -53,7 +53,6 @@ const useTrace = () => {
   const Navigate = (
     { to, state }: NavigateProps,
   ) => <RawNavigate to={to} state={{ ...state, previousPath }} replace />;
-  Navigate.defaultProps = { state: undefined };
   const Link = (props: LinkProps<MuiLinkProps>) => {
     const { children, state } = props;
     return (
@@ -63,7 +62,6 @@ const useTrace = () => {
       </RawLink>
     );
   };
-  Link.defaultProps = { state: undefined };
   const ButtonLink = (props: LinkProps<ButtonOwnProps>) => {
     const { children, state } = props;
     return (
@@ -73,7 +71,6 @@ const useTrace = () => {
       </Button>
     );
   };
-  ButtonLink.defaultProps = { state: undefined };
   const IconButtonLink = (props: LinkProps<IconButtonOwnProps>) => {
     const { children, state } = props;
     return (
@@ -83,7 +80,6 @@ const useTrace = () => {
       </IconButton>
     );
   };
-  IconButtonLink.defaultProps = { state: undefined };
   return {
     navigate, Navigate, Link, ButtonLink, IconButtonLink, redirectPath,
   };

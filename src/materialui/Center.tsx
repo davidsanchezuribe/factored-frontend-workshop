@@ -17,10 +17,4 @@ const Center = ({
   return children;
 };
 
-Center.defaultProps = {
-  center: undefined,
-  mt: undefined,
-  mb: undefined,
-};
-
 export default Center;

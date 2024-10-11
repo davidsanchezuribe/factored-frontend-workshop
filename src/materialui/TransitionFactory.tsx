@@ -45,10 +45,6 @@ const ForwardTransition = ({ slide }: CustomTransitionProps) => {
   return LeftTransition;
 };
 
-ForwardTransition.defaultProps = {
-  slide: undefined,
-};
-
 const NormalTransition = ({ slide }: CustomTransitionProps) => {
   const direction = slide === true ? 'up' : slide;
   return ({

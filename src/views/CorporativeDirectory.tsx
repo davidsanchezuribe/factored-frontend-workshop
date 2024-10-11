@@ -1,4 +1,5 @@
 import React from 'react';
+import { WithAuthProps } from './WithAuthProps';
 
 const PrivateExample = ({ authUser }: WithAuthProps) => {
   const { idToken } = authUser;

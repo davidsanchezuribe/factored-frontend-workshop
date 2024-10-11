@@ -127,8 +127,4 @@ const MFAPhoneEnroll = ({
   );
 };
 
-MFAPhoneEnroll.defaultProps = {
-  preferredCountries: undefined,
-};
-
 export default MFAPhoneEnroll;

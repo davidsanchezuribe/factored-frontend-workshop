@@ -39,12 +39,4 @@ const CheckboxFMUI = (props: {
   );
 };
 
-CheckboxFMUI.defaultProps = {
-  tooltip: undefined,
-  labelPlacement: undefined,
-  color: undefined,
-  mr: undefined,
-  mb: undefined,
-};
-
 export default CheckboxFMUI;

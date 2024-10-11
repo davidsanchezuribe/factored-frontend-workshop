@@ -88,11 +88,4 @@ const Collapsible = ({
   );
 };
 
-Collapsible.defaultProps = {
-  id: undefined,
-  mt: undefined,
-  mb: undefined,
-  collapse: undefined,
-};
-
 export default Collapsible;

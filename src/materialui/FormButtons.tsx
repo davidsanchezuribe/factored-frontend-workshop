@@ -89,18 +89,4 @@ const FormButtons = ({
   );
 };
 
-FormButtons.defaultProps = {
-  resetLabel: undefined,
-  hideReset: undefined,
-  continueLabel: undefined,
-  continueTooltip: undefined,
-  secondaryLabel: undefined,
-  secondaryAction: undefined,
-  disable: undefined,
-  mt: undefined,
-  mb: undefined,
-  captchaRef: undefined,
-  progress: undefined,
-};
-
 export default FormButtons;

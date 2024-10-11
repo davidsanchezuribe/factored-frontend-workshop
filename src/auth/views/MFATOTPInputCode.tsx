@@ -52,8 +52,4 @@ const MFATOTPInputCode = ({
   );
 };
 
-MFATOTPInputCode.defaultProps = {
-  totpSecret: undefined,
-};
-
 export default MFATOTPInputCode;

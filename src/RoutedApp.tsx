@@ -40,11 +40,4 @@ const RoutedApp = ({
   );
 };
 
-RoutedApp.defaultProps = {
-  NavBar: undefined,
-  homePath: undefined,
-  notFoundPath: undefined,
-  withAuth: undefined,
-};
-
 export default RoutedApp;

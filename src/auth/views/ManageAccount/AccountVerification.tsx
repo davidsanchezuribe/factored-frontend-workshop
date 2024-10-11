@@ -68,8 +68,4 @@ const AccountVerification = ({
   );
 };
 
-AccountVerification.defaultProps = {
-  mfa: undefined,
-};
-
 export default AccountVerification;

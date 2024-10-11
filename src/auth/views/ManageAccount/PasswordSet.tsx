@@ -106,9 +106,4 @@ const PasswordSet = ({
   );
 };
 
-PasswordSet.defaultProps = {
-  authUser: undefined,
-  closeDialog: undefined,
-};
-
 export default PasswordSet;

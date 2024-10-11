@@ -157,13 +157,4 @@ const InputFieldFMUI = (props: BaseTextFieldProps
   );
 };
 
-InputFieldFMUI.defaultProps = {
-  successMessage: undefined,
-  showSuccess: undefined,
-  preventPaste: undefined,
-  width: undefined,
-  height: undefined,
-  integer: undefined,
-};
-
 export default InputFieldFMUI;
