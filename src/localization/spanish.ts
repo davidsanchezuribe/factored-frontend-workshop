@@ -1,9 +1,8 @@
 import { AppMessages } from './LocalizationTypes';
 
 const spanish: AppMessages = {
-  routes: {
-    test: 'Prueba',
-    action: 'Acción',
+  corporativeDirectory: {
+    retrievingData: 'Obteniendo datos de los empleados',
   },
   navBar: {
     account: 'Mi Cuenta',
@@ -484,10 +483,6 @@ const spanish: AppMessages = {
       message: 'Las cookies están deshabilitadas en este navegador, por lo cual no se podrá mejorar la experiencia de uso, guardando automáticamente preferencias como: idioma, mantener la sesión iniciada, entre otras',
       understand: 'Entiendo',
     },
-  },
-  example: 'Ejemplo',
-  homepage: {
-    helloWorld: 'Hola Mundo',
   },
   pageNotFound: {
     title: 'Página no encontrada',

@@ -6,9 +6,9 @@ import { DropdownLinkProps } from './materialui/DropdownLinkProps';
 import { pushReturn } from './utilities';
 import { CustomMenuProps } from './materialui/CustomMenu';
 
-type PublicComponent = () => React.JSX.Element;
+type PublicComponent = () => React.JSX.Element | null;
 
-type PrivateComponent = ({ authUser }: WithAuthProps) => React.JSX.Element;
+type PrivateComponent = ({ authUser }: WithAuthProps) => React.JSX.Element | null;
 
 type PrivateNodeRoute = {
   name: string,

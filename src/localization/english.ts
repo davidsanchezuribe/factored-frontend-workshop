@@ -1,9 +1,8 @@
 import { AppMessages } from './LocalizationTypes';
 
 const english: AppMessages = {
-  routes: {
-    test: 'Test',
-    action: 'Action',
+  corporativeDirectory: {
+    retrievingData: 'Retrieving employee data',
   },
   navBar: {
     account: 'My Account',
@@ -483,10 +482,6 @@ const english: AppMessages = {
       message: 'Cookies are disabled in this browser, so it will not be possible to improve the user experience, automatically saving preferences such as: language, keep the session login, among others',
       understand: 'I understand',
     },
-  },
-  example: 'Example',
-  homepage: {
-    helloWorld: 'Hello World',
   },
   pageNotFound: {
     title: 'Page Not Found',

@@ -1,7 +1,6 @@
 export type AppMessages = {
-  routes: {
-    test: string,
-    action: string,
+  corporativeDirectory: {
+    retrievingData: string,
   },
   navBar: {
     account: string,
@@ -481,10 +480,6 @@ export type AppMessages = {
       message: string,
       understand: string,
     },
-  },
-  example: string,
-  homepage: {
-    helloWorld: string,
   },
   pageNotFound: {
     title: string,
