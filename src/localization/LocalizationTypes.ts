@@ -1,6 +1,14 @@
 export type AppMessages = {
   corporativeDirectory: {
     retrievingData: string,
+    showSkills: string,
+    closeDialog: string,
+    headers: {
+      avatar: string,
+      name: string,
+      position: string,
+      skills: string,
+    },
   },
   navBar: {
     account: string,
@@ -493,4 +501,5 @@ export type LocalizationHook = () => {
   getLanguage: () => string,
   getMessages: () => AppMessages,
   setLanguage: (language: string) => void,
+  formatString: (message: string, ...args: string[]) => string,
 };

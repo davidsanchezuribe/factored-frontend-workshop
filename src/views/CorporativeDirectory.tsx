@@ -13,6 +13,7 @@ import { Employee, getEmployeeData, Skill } from './corporateDirectoryApiClient'
 import useFeedback from '../materialui/useFeedback';
 import useLocalization from '../localization/useLocalization';
 import useDataGrid from '../materialui/useDataGrid';
+import Modal from '../materialui/Modal';
 
 Chart.register(RadialLinearScale, PointElement, LineElement);
 
@@ -25,12 +26,17 @@ const buildEmployeeRows = (employees: Employee[]) => employees
     skills: employee.skills,
   }));
 
-type BuildEmployeeColums = (showSkills: (skills: Skill[]) => void) => GridColDef[];
+type BuildEmployeeColums = (
+  headers: { avatar: string, name: string, position: string, skills: string },
+  showSkills: (skills: Skill[], name: string) => React.JSX.Element,
+) => GridColDef[];
 
-const buildEmployeeColums: BuildEmployeeColums = (showSkills) => [
+const boldHeader = (header: string) => () => <strong>{header}</strong>;
+
+const buildEmployeeColums: BuildEmployeeColums = (headers, showSkills) => [
   {
     field: 'avatar',
-    headerName: 'avatar',
+    renderHeader: boldHeader(headers.avatar),
     width: 150,
     headerAlign: 'center',
     renderCell: ({ value: avatar }) => {
@@ -42,32 +48,31 @@ const buildEmployeeColums: BuildEmployeeColums = (showSkills) => [
       );
     },
   },
-  { field: 'name', headerName: 'name', width: 150 },
-  { field: 'position', headerName: 'position', width: 150 },
+  {
+    field: 'name', renderHeader: boldHeader(headers.name), minWidth: 150, flex: 1,
+  },
+  {
+    field: 'position', renderHeader: boldHeader(headers.position), minWidth: 150, flex: 1,
+  },
   {
     field: 'skills',
-    headerName: 'skills',
-    width: 200,
-    renderCell: ({ value: skills, row: { name } }) => (
-      <Button
-        variant="contained"
-        size="small"
-        onClick={() => { showSkills(skills); }}
-        fullWidth
-        sx={{ textTransform: 'none' }}
-      >
-        {`${name} skills`}
-      </Button>
-    ),
+    renderHeader: boldHeader(headers.skills),
+    minWidth: 150,
+    flex: 1,
+    renderCell: ({ value: skills, row: { name } }) => showSkills(skills, name),
+    headerAlign: 'center',
   },
 ];
 
 const PrivateExample = () => {
-  const { getMessages } = useLocalization();
+  const { getMessages, formatString } = useLocalization();
   const { corporativeDirectory: messages } = getMessages();
   const { localeText } = useDataGrid();
   const { setLoading, setLoadingMessage } = useFeedback();
   const [rows, setRows] = React.useState<GridRowsProp | undefined>(undefined);
+  const [openSkillsDialog, setOpenSkillsDialog] = React.useState(false);
+  const [skillsDialogTitle, setSkillsDialogTitle] = React.useState('');
+  const [skillsChart, setSkillsChart] = React.useState<React.JSX.Element | undefined>(undefined);
   React.useEffect(() => {
     setLoading(!rows);
   }, [rows]);
@@ -80,19 +85,51 @@ const PrivateExample = () => {
     // .catch((error) => {});
   }, []);
 
-  const showSkills = (skills: Skill[]) => {
-    console.log(skills);
-  };
+  const showSkills = (skills: Skill[], name: string) => (
+    <Button
+      variant="contained"
+      size="small"
+      onClick={() => {
+        setSkillsDialogTitle(formatString(messages.showSkills, name));
+        setSkillsChart(
+          <Radar
+            data={{
+              labels: skills.map(({ skill }) => skill),
+              datasets: [{ data: skills.map(({ expertise }) => expertise) }],
+            }}
+            options={{ scales: { r: { min: 0, ticks: { stepSize: 1, display: true } } } }}
+          />,
+        );
+        setOpenSkillsDialog(true);
+      }}
+      fullWidth
+      sx={{ textTransform: 'none' }}
+    >
+      {formatString(messages.showSkills, name.split(' ')[0])}
+    </Button>
+  );
   if (!rows) return null;
   return (
-    <Paper elevation={3} sx={{ my: 1, height: '80vh' }}>
-      <DataGrid
-        rows={rows}
-        columns={buildEmployeeColums(showSkills)}
-        rowHeight={60}
-        localeText={localeText}
-      />
-    </Paper>
+    <>
+      <Modal
+        open={openSkillsDialog}
+        setOpen={setOpenSkillsDialog}
+        title={skillsDialogTitle}
+        removeNegative
+        positiveLabel={messages.closeDialog}
+        maxWidth="sm"
+      >
+        {skillsChart}
+      </Modal>
+      <Paper elevation={3} sx={{ my: 1, height: '80vh' }}>
+        <DataGrid
+          rows={rows}
+          columns={buildEmployeeColums(messages.headers, showSkills)}
+          rowHeight={60}
+          localeText={localeText}
+        />
+      </Paper>
+    </>
   );
 };
 

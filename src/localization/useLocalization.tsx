@@ -10,11 +10,13 @@ const useLocalization: LocalizationHook = () => {
   const setLanguage = (language: string) => {
     if (language !== getLanguage()) messages.setLanguage(language);
   };
+  const formatString = (message: string, ...args: string[]) => message.replace(/{(\d+)}/g, (match, index) => args[index] || '');
   return {
     getAvailableLanguages,
     getLanguage,
     getMessages,
     setLanguage,
+    formatString,
   };
 };
 

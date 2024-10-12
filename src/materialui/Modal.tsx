@@ -30,6 +30,7 @@ type ModalProps = {
   aditionalActions?: { label: string, action: () => void, keepOnClick?: boolean }[],
   preventClose?: boolean,
   slide?: 'left' | 'right' | 'up' | 'down' | boolean,
+  maxWidth?: 'xs' | 'sm' | 'md' | 'lg' | 'xl',
 };
 
 const Modal = ({
@@ -49,6 +50,7 @@ const Modal = ({
   aditionalActions,
   preventClose,
   slide,
+  maxWidth,
 }: ModalProps) => {
   const handleClose = (_: {}, reason: 'backdropClick' | 'escapeKeyDown') => {
     if (reason && preventClose) return;
@@ -84,10 +86,8 @@ const Modal = ({
     <Dialog
       open={open}
       onClose={handleClose}
-      aria-labelledby="alert-dialog-title"
-      aria-describedby="alert-dialog-description"
       TransitionComponent={Transition}
-      maxWidth="xs"
+      maxWidth={maxWidth}
       fullWidth
     >
       {title && <Center center={centerTitle}><DialogTitle id="alert-dialog-title">{title}</DialogTitle></Center>}

@@ -7,7 +7,8 @@
     "serve": "webpack serve",
     "deploy": "webpack --env NODE_ENV=production DOMAIN=davidsanchezuribe.com SUBDOMAIN=factored && sh ./serverDeploy.sh",
     "clean": "rm -rf node_modules dist",
-    "push": "git pull && git add . && git commit -m \"${m=new_commit}\" && git push origin master"
+    "docker-build-start": "sudo docker build . -t dei/frontend-react:1.0.0 && docker run -p 7000:80 -d dei/frontend-react:1.0.0",
+    "docker-remove": "docker kill $(docker ps -q) && docker rm $(docker ps -a -q)"
   },
   "author": "",
   "license": "ISC",

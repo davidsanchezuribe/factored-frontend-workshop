@@ -120,7 +120,6 @@ export const authObserver: AuthObserver = (
 ) => onAuthStateChanged(
   auth,
   async (user) => {
-    console.log('observer');
     if (user) {
       const {
         email,

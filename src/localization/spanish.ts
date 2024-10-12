@@ -3,6 +3,14 @@ import { AppMessages } from './LocalizationTypes';
 const spanish: AppMessages = {
   corporativeDirectory: {
     retrievingData: 'Obteniendo datos de los empleados',
+    showSkills: 'Habilidades de {0}',
+    closeDialog: 'Cerrar',
+    headers: {
+      avatar: 'Avatar',
+      name: 'Nombre',
+      position: 'Cargo',
+      skills: 'Habilidades',
+    },
   },
   navBar: {
     account: 'Mi Cuenta',
