@@ -9,7 +9,7 @@ const userAuthConfig: UserAuthConfig = {
     googleLogin: true,
     facebookLogin: false,
     twitterLogin: false,
-    twoFactorAuthentication: true,
+    twoFactorAuthentication: false,
   },
   manageAccount: {
     cookiesStorageEnabler: true,

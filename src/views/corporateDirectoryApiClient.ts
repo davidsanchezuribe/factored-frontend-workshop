@@ -1,4 +1,5 @@
-import data from './data.json';
+import * as z from 'zod';
+import { customFetch } from '../utilities';
 
 export type Skill = { skill: string, expertise: number };
 
@@ -9,6 +10,19 @@ export type Employee = {
   skills: Skill[]
 };
 
-export const getEmployeeData = () => new Promise<Employee[]>((resolve) => {
-  setTimeout(() => { resolve(data); }, 50);
-});
+export const getEmployeeData = () => customFetch(
+  'http://localhost:5000/employee',
+  'GET',
+  undefined,
+  z.object({
+    employees: z.array(z.object({
+      name: z.string(),
+      position: z.string(),
+      avatar: z.string(),
+      skills: z.array(z.object({ skill: z.string(), expertise: z.number() })),
+    })),
+  }),
+).then(({ employees }: { employees: Employee[] }) => employees)
+  .catch((error) => {
+    throw error;
+  });

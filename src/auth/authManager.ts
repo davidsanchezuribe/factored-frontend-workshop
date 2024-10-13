@@ -1,6 +1,6 @@
 import React from 'react';
 import { initializeApp } from 'firebase/app';
-import { initializeAppCheck, ReCaptchaV3Provider } from 'firebase/app-check';
+// import { initializeAppCheck, ReCaptchaV3Provider } from 'firebase/app-check';
 import {
   AuthError,
   EmailAuthProvider,
@@ -79,14 +79,14 @@ const auth = getAuth(app);
 
 declare global { interface Window { FIREBASE_APPCHECK_DEBUG_TOKEN: boolean; } }
 
-if (process.env.RECAPTCHA_SITE_KEY) {
-  window.FIREBASE_APPCHECK_DEBUG_TOKEN = process.env.DEBUG_TOKEN;
+// if (process.env.RECAPTCHA_SITE_KEY) {
+//   window.FIREBASE_APPCHECK_DEBUG_TOKEN = process.env.DEBUG_TOKEN;
 
-  initializeAppCheck(app, {
-    provider: new ReCaptchaV3Provider(process.env.RECAPTCHA_SITE_KEY),
-    isTokenAutoRefreshEnabled: true,
-  });
-}
+//   initializeAppCheck(app, {
+//     provider: new ReCaptchaV3Provider(process.env.RECAPTCHA_SITE_KEY),
+//     isTokenAutoRefreshEnabled: true,
+//   });
+// }
 
 const handleCommonErrors: (
   error: AuthError | { code: number } | CustomStorageError | ProfanityFilterError,
@@ -570,7 +570,7 @@ export const mfaTotpGenerateSecret: MFATotpGenerateSecret = () => () => {
   return multiFactor(user).getSession()
     .then((session) => TotpMultiFactorGenerator.generateSecret(session))
     .then((totpSecret) => {
-      const totpUri = totpSecret.generateQrCodeUrl(email, process.env.APP_NAME);
+      const totpUri = totpSecret.generateQrCodeUrl(email, 'factored');
       return { payload: { totpUri, totpSecret } };
     })
     .catch((error: AuthError) => {
