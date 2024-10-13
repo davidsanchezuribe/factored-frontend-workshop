@@ -4,7 +4,7 @@ Este front-end lo construí sobre un boilerplate personal en el cual he estado t
 Este front-end se puede ver desplegado y en funcionamiento en www.davidsanchezuribe.com/factored
 
 Instrucciones de uso
-1. El proyecto utiliza firebase, para que Se debe colocar en la raiz del proyecto el .env el cual está adjunto en el correo.
+1. El proyecto utiliza firebase, por lo que se debe colocar en la raiz del proyecto el .env el cual está adjunto en el correo.
 
 2. Para correrlo se puede usar el Dockerfile o el comando "npm run serve".
 
